@@ -1,0 +1,1535 @@
+brand_name,model_name,energy,gearbox,transmission,carrosserie,year,mileage_km,age,mileage_per_year,log_price
+bmw,série 7,essence,automatique,traction,berline,2008,220000,17,12941.176470588236,10.915106645867503
+bmw,série 4 gran coupé,essence,automatique,traction,berline,2019,90000,6,15000.0,11.813037464800539
+mahindra,scorpio suv,diesel,manuelle,intégrale,suv,2013,328000,12,27333.333333333332,10.292179440058462
+volkswagen,amarok,diesel,manuelle,intégrale,pick up,2016,180000,9,20000.0,11.373674891823535
+fiat,doblo combi,essence,manuelle,traction,monospace,2021,47000,4,11750.0,10.819778284410283
+mercedes-benz,classe e coupé,essence,automatique,propulsion,coupé,2011,60000,14,4285.714285714285,10.915106645867503
+land rover,freelander,diesel,automatique,intégrale,suv,2009,193000,16,12062.5,11.050905878263567
+land rover,discovery sport,diesel,automatique,traction,suv,2016,94000,9,10444.444444444445,11.678448377988165
+mg,gs,essence,automatique,intégrale,suv,2017,100000,8,12500.0,11.0186455364637
+bmw,série 4 coupé,essence,automatique,traction,coupé,2017,78000,8,9750.0,11.608244735642321
+haval,h6,essence,automatique,traction,suv,2019,55000,6,9166.666666666666,11.350418300109132
+mercedes-benz,cls,essence,automatique,propulsion,coupé,2009,178000,16,11125.0,10.92415631759022
+mazda,6,essence,automatique,traction,berline,2014,125000,11,11363.636363636364,10.839600519357369
+hyundai,veloster,essence,automatique,traction,citadine,2016,140000,9,15555.555555555555,10.712215345197256
+mg,zs,essence,automatique,traction,suv,2022,67000,3,22333.333333333332,11.263194068746921
+bmw,série 7,essence,automatique,traction,berline,2008,300000,17,17647.058823529413,10.714439990727769
+mitsubishi,asx,essence,automatique,intégrale,suv,2021,55000,4,13750.0,11.717970216649181
+mg,gs,essence,automatique,intégrale,suv,2017,115000,8,14375.0,11.034905792929415
+mercedes-benz,classe c,diesel,automatique,traction,citadine,2019,80000,6,13333.333333333334,11.904974309480183
+volkswagen,golf 8,essence,manuelle,traction,compacte,2021,16000,4,4000.0,11.759793355371237
+infiniti,fx,essence,automatique,traction,suv,2008,190000,17,11176.470588235294,10.859018228147887
+kia,sorento,diesel,automatique,intégrale,suv,2012,210000,13,16153.846153846154,10.950824090522445
+dongfeng,sx3,essence,manuelle,traction,suv,2021,30000,4,7500.0,11.082157933374816
+mercedes-benz,classe e,essence,automatique,traction,citadine,2011,135000,14,9642.857142857143,11.251573687764477
+kia,sportage,essence,automatique,traction,suv,2018,101000,7,14428.57142857143,11.350418300109132
+bmw,série 1,essence,automatique,traction,citadine,2020,70000,5,14000.0,11.429554725537322
+hyundai,tucson,essence,automatique,traction,suv,2023,24000,2,12000.0,11.898194668458823
+bmw,x3,essence,automatique,intégrale,suv,2014,219000,11,19909.090909090908,11.225256725762893
+bmw,série 4 gran coupé,essence,automatique,traction,citadine,2018,100000,7,14285.714285714286,11.502885230075814
+volkswagen,golf 7,essence,automatique,traction,compacte,2019,120000,6,20000.0,11.289794413577894
+renault,kadjar,essence,automatique,traction,suv,2018,150000,7,21428.571428571428,11.097425172408931
+peugeot,3008,essence,automatique,traction,suv,2020,169000,5,33800.0,11.289794413577894
+audi,q3,essence,automatique,traction,suv,2017,77000,8,9625.0,11.350418300109132
+chery,tiggo 3,essence,manuelle,traction,suv,2018,75000,7,10714.285714285714,10.757924157061597
+haval,h6,essence,automatique,traction,suv,2020,120000,5,24000.0,11.251573687764477
+skoda,octavia,essence,automatique,traction,berline,2022,30000,3,10000.0,11.651826167019166
+peugeot,3008,essence,automatique,traction,suv,2017,260000,8,32500.0,11.251573687764477
+dongfeng,sx3,essence,manuelle,traction,suv,2021,32000,4,8000.0,11.082157933374816
+volkswagen,golf 8,essence,automatique,traction,compacte,2021,70000,4,17500.0,11.736077016252437
+porsche,cayenne,essence,automatique,traction,suv,2009,212000,16,13250.0,11.264476926102367
+audi,a3 sportback,essence,automatique,intégrale,compacte,2023,900,2,450.0,11.813037464800539
+mercedes-benz,gla,essence,automatique,traction,suv,2016,74000,9,8222.222222222223,11.635151947212842
+hyundai,tucson,hybride diesel,automatique,traction,suv,2021,51000,4,12750.0,11.849404844423074
+seat,ibiza,essence,automatique,traction,citadine,2020,100000,5,20000.0,11.127277689932466
+bmw,série 3,essence,automatique,traction,berline,2016,152000,9,16888.88888888889,11.350418300109132
+hyundai,grand i10,essence,automatique,traction,citadine,2021,54000,4,13500.0,10.87806606028079
+haval,jolion,essence,automatique,traction,suv,2022,40000,3,13333.333333333334,11.373674891823535
+chery,tiggo 2,essence,manuelle,traction,suv,2019,60000,6,10000.0,10.680539205318292
+bmw,série 3,essence,automatique,traction,berline,2017,117000,8,14625.0,11.385103457032141
+peugeot,2008,essence,manuelle,traction,suv,2021,30000,4,7500.0,11.429554725537322
+hyundai,grand i10,essence,manuelle,traction,citadine,2022,30000,3,10000.0,10.87806606028079
+seat,leon,essence,automatique,traction,compacte,2022,70000,3,23333.333333333332,11.718320437984499
+mercedes-benz,classe a,essence,automatique,traction,compacte,2015,125000,10,12500.0,11.127277689932466
+hyundai,kona,hybride léger essence,manuelle,traction,suv,2021,30000,4,7500.0,11.277215789596893
+volkswagen,golf 7,essence,manuelle,traction,compacte,2018,130000,7,18571.428571428572,11.289794413577894
+mercedes-benz,classe s,essence,automatique,traction,berline,2008,170000,17,10000.0,11.264476926102367
+volkswagen,golf 7,essence,automatique,traction,compacte,2019,180000,6,30000.0,11.06665398721974
+volkswagen,golf 7,essence,manuelle,propulsion,compacte,2018,87000,7,12428.57142857143,11.149096419938578
+kia,sportage,essence,automatique,traction,suv,2022,23000,3,7666.666666666667,11.870606902224587
+citroën,berlingo utilitaire,diesel,manuelle,traction,utilitaire,2018,170000,7,24285.714285714286,10.53212287826962
+peugeot,3008,essence,automatique,traction,suv,2018,132000,7,18857.14285714286,11.349241150793087
+audi,a4,essence,automatique,traction,berline,2008,241000,17,14176.470588235294,10.819798284210286
+seat,leon,essence,manuelle,traction,citadine,2020,65000,5,13000.0,11.19822841866684
+mercedes-benz,cla,diesel,automatique,traction,citadine,2013,240000,12,20000.0,11.277215789596893
+peugeot,3008,essence,manuelle,traction,citadine,2010,230000,15,15333.333333333334,10.308985993422082
+audi,a3 sportback,essence,automatique,traction,citadine,2019,70000,6,11666.666666666666,11.461642696843066
+volkswagen,golf 7,essence,automatique,traction,compacte,2019,64000,6,10666.666666666666,11.211833885608513
+mercedes-benz,classe a,diesel,automatique,traction,compacte,2019,50000,6,8333.333333333334,11.49273296168228
+haval,h2,essence,automatique,traction,suv,2019,40000,6,6666.666666666667,11.141876276228
+mercedes-benz,cla,essence,automatique,traction,citadine,2014,163000,11,14818.181818181818,11.302216779257382
+volkswagen,golf 8,essence,automatique,traction,compacte,2021,40000,4,10000.0,11.884495917930655
+mercedes-benz,classe e,diesel,automatique,traction,berline,2011,330000,14,23571.428571428572,11.251573687764477
+mercedes-benz,classe e,essence,automatique,traction,berline,2010,330000,15,22000.0,10.839600519357369
+chevrolet,cruze,essence,manuelle,traction,berline,2018,90000,7,12857.142857142857,10.596659732783579
+haval,h6,essence,automatique,traction,suv,2019,90000,6,15000.0,11.264476926102367
+volkswagen,golf 7,essence,automatique,traction,compacte,2015,140000,10,14000.0,10.859018228147887
+haval,h6,essence,automatique,traction,suv,2022,13000,3,4333.333333333333,11.922256424370241
+mercedes-benz,cla,essence,automatique,traction,berline,2018,20000,7,2857.1428571428573,11.652696102959753
+fiat,tipo 5 portes,essence,manuelle,traction,compacte,2018,75000,7,10714.285714285714,10.736418414365376
+bmw,série 2 gran coupé,essence,automatique,traction,berline,2022,21000,3,7000.0,11.813037464800539
+kia,sportage,essence,automatique,traction,suv,2020,40000,5,8000.0,11.686887175419702
+volkswagen,golf 7,essence,manuelle,traction,compacte,2019,40000,6,6666.666666666667,11.211833885608513
+honda,accord,essence,automatique,traction,berline,2022,11000,3,3666.6666666666665,11.813037464800539
+citroën,jumpy fourgon,diesel,manuelle,traction,utilitaire,2019,170000,6,28333.333333333332,11.082157933374816
+audi,a5 cabriolet,essence,automatique,traction,cabriolet,2010,120000,15,8000.0,10.985309671896763
+peugeot,2008,essence,manuelle,traction,suv,2017,44000,8,5500.0,10.896757843893464
+bmw,série 4 coupé,essence,automatique,propulsion,coupé,2019,90000,6,15000.0,11.813037464800539
+peugeot,208,essence,manuelle,traction,citadine,2020,60000,5,12000.0,10.463131911491967
+volkswagen,golf 8,essence,manuelle,traction,compacte,2020,26000,5,5200.0,11.599112335481124
+audi,q3,essence,automatique,traction,suv,2017,100000,8,12500.0,11.407576060361786
+citroën,c3,essence,manuelle,traction,citadine,2019,58000,6,9666.666666666666,10.703266939811954
+ford,ranger,diesel,automatique,traction,pick up,2014,191000,11,17363.636363636364,11.127277689932466
+mercedes-benz,classe a,essence,manuelle,traction,compacte,2013,182000,12,15166.666666666666,11.034905792929415
+chery,tiggo 8 pro,essence,automatique,traction,suv,2022,80000,3,26666.666666666668,11.472113887062386
+mg,hs,essence,automatique,intégrale,suv,2021,35000,4,8750.0,11.502885230075814
+volkswagen,tiguan,essence,automatique,traction,suv,2018,60000,7,8571.42857142857,11.407576060361786
+volkswagen,passat,essence,automatique,traction,berline,2019,60000,6,10000.0,11.571203807011969
+peugeot,2008,essence,automatique,traction,suv,2022,34000,3,11333.333333333334,11.48247656671073
+citroën,c3,essence,manuelle,traction,citadine,2019,51000,6,8500.0,10.691967639914864
+bmw,série 1,essence,manuelle,traction,citadine,2017,126000,8,15750.0,11.127277689932466
+volkswagen,golf 6,diesel,automatique,traction,compacte,2012,252000,13,19384.615384615383,10.645448706505872
+kia,sportage,diesel,automatique,intégrale,suv,2012,324000,13,24923.076923076922,10.896757843893464
+volkswagen,passat,essence,automatique,traction,berline,2019,100000,6,16666.666666666668,11.522885696764481
+bmw,série 5,essence,automatique,traction,berline,2015,200000,10,20000.0,11.407576060361786
+nissan,qashqai,essence,automatique,traction,suv,2011,147000,14,10500.0,10.668978650219241
+citroën,ds3,essence,automatique,traction,citadine,2012,138000,13,10615.384615384615,10.463131911491967
+citroën,jumpy combi,diesel,manuelle,traction,utilitaire,2018,124000,7,17714.285714285714,11.314486721293981
+ssangyong,actyon sports,diesel,manuelle,traction,pick up,2017,200000,8,25000.0,10.645448706505872
+renault,kadjar,essence,automatique,traction,suv,2018,109000,7,15571.42857142857,11.264476926102367
+mercedes-benz,classe e,essence,automatique,traction,berline,2018,90000,7,12857.142857142857,11.813037464800539
+mercedes-benz,classe c,essence,automatique,traction,berline,2016,170000,9,18888.88888888889,11.39640288460621
+skoda,superb,essence,automatique,traction,berline,2021,60000,4,15000.0,11.736077016252437
+haval,h6,essence,automatique,traction,suv,2020,115000,5,23000.0,11.277215789596893
+toyota,corolla,essence,automatique,traction,citadine,2021,90000,4,22500.0,11.170449240431308
+ford,kuga,essence,manuelle,traction,suv,2017,100000,8,12500.0,11.141876276228
+kia,sportage,essence,automatique,traction,suv,2019,69000,6,11500.0,11.461642696843066
+suzuki,baleno,essence,automatique,traction,citadine,2017,160000,8,20000.0,10.596659732783579
+land rover,defender 110,diesel,manuelle,intégrale,suv,1997,210000,28,7500.0,11.082157933374816
+volkswagen,golf 6,diesel,automatique,traction,compacte,2011,295000,14,21071.428571428572,10.62135173563291
+volkswagen,golf 7,essence,manuelle,traction,compacte,2018,86000,7,12285.714285714286,11.277215789596893
+ford,kuga,essence,automatique,intégrale,suv,2017,208000,8,26000.0,11.082157933374816
+mg,zs,essence,manuelle,traction,suv,2022,35000,3,11666.666666666666,11.264476926102367
+land rover,range rover sport,essence,automatique,traction,suv,2007,211000,18,11722.222222222223,11.385103457032141
+mazda,3,essence,manuelle,traction,compacte,2017,103000,8,12875.0,10.933124826700707
+renault,kadjar,essence,manuelle,traction,suv,2019,70000,6,11666.666666666666,11.127277689932466
+bmw,série 3 coupé,essence,manuelle,traction,coupé,2012,155000,13,11923.076923076924,11.184435286790631
+mercedes-benz,classe e,essence,automatique,traction,berline,2010,199000,15,13266.666666666666,10.915106645867503
+mercedes-benz,classe b,essence,manuelle,traction,suv,2014,100000,11,9090.90909090909,10.778977123006351
+audi,a4,essence,manuelle,traction,berline,2011,233000,14,16642.85714285714,10.518700218288165
+mercedes-benz,classe c,hybride léger essence,automatique,propulsion,berline,2021,30570,4,7642.5,11.918397239722838
+nissan,patrol,diesel,manuelle,traction,suv,2006,359000,19,18894.736842105263,10.859018228147887
+bmw,série 2 gran coupé,essence,automatique,traction,coupé,2020,61000,5,12200.0,11.599112335481124
+volkswagen,golf 7,diesel,automatique,traction,compacte,2013,250000,12,20833.333333333332,10.87806606028079
+chery,e3,essence,manuelle,traction,berline,2018,95000,7,13571.42857142857,10.373522431293592
+iveco,daily simple cabine,diesel,manuelle,propulsion,utilitaire,2022,40000,3,13333.333333333334,11.561725152903833
+haval,h6,essence,automatique,traction,suv,2020,120000,5,24000.0,11.277215789596893
+haval,h6,essence,automatique,traction,suv,2019,99000,6,16500.0,11.184435286790631
+bmw,série 1,essence,automatique,traction,suv,2020,40000,5,8000.0,11.813037464800539
+audi,a4,essence,automatique,traction,berline,2016,143000,9,15888.888888888889,10.968215530759236
+audi,q3,essence,automatique,traction,suv,2017,95000,8,11875.0,11.461642696843066
+kia,sportage,essence,automatique,traction,suv,2021,85000,4,21250.0,11.542493975902508
+peugeot,3008,essence,automatique,traction,suv,2018,30000,7,4285.714285714285,11.461642696843066
+audi,a3 berline,essence,automatique,traction,berline,2019,50000,6,8333.333333333334,11.350418300109132
+mini,5 portes,essence,manuelle,traction,citadine,2016,78000,9,8666.666666666666,10.950824090522445
+kia,rio 5p,essence,manuelle,traction,citadine,2021,64000,4,16000.0,11.06665398721974
+volkswagen,golf 7,essence,manuelle,traction,compacte,2017,98500,8,12312.5,11.042937835596494
+ford,mondeo,hybride essence,automatique,traction,berline,2020,32000,5,6400.0,11.652696102959753
+ford,kuga,essence,manuelle,traction,suv,2019,93000,6,15500.0,11.177466714598282
+peugeot,rifter,diesel,manuelle,traction,compacte,2020,95000,5,19000.0,11.184435286790631
+bmw,série 7,essence,automatique,traction,berline,2010,98000,15,6533.333333333333,11.502885230075814
+peugeot,rifter,diesel,manuelle,traction,compacte,2020,95000,5,19000.0,11.184435286790631
+mg,hs,essence,automatique,traction,suv,2021,78000,4,19500.0,11.258046118484
+bmw,x2,essence,automatique,traction,suv,2018,38000,7,5428.571428571428,11.790564777297387
+bmw,série 1,essence,automatique,traction,citadine,2019,200000,6,33333.333333333336,11.225256725762893
+dacia,duster,essence,manuelle,traction,suv,2020,34000,5,6800.0,11.23850177707664
+iveco,daily fourgon,diesel,manuelle,traction,autres,2015,31000,10,3100.0,11.695255355062795
+kia,sportage,diesel,manuelle,traction,suv,2021,19000,4,4750.0,11.759793355371237
+honda,cr-v,essence,automatique,intégrale,suv,2018,67000,7,9571.42857142857,11.418625774449598
+kia,rio 5p,essence,manuelle,traction,citadine,2022,85000,3,28333.333333333332,10.996266191844887
+peugeot,2008,diesel,manuelle,traction,suv,2021,100000,4,25000.0,11.289794413577894
+bmw,série 4 gran coupé,essence,automatique,traction,berline,2019,99000,6,16500.0,11.736077016252437
+bmw,série 5,essence,automatique,traction,berline,2013,179000,12,14916.666666666666,11.283524879179666
+haval,h6,essence,automatique,traction,suv,2023,11000,2,5500.0,11.744045122410057
+chery,tiggo 8,essence,automatique,traction,suv,2022,49500,3,16500.0,11.390769130367211
+mg,zs,essence,automatique,traction,suv,2020,75000,5,15000.0,10.915106645867503
+toyota,c-hr,essence,automatique,traction,suv,2022,55000,3,18333.333333333332,11.418625774449598
+volkswagen,passat,essence,automatique,traction,berline,2022,40000,3,13333.333333333334,11.736077016252437
+honda,cr-v,essence,automatique,intégrale,suv,2018,60000,7,8571.42857142857,11.461642696843066
+ford,focus,essence,manuelle,traction,compacte,2018,161000,7,23000.0,10.55843949396453
+bmw,série 3,essence,automatique,traction,berline,2018,177000,7,25285.714285714286,11.350418300109132
+dacia,duster,essence,manuelle,traction,suv,2020,35000,5,7000.0,11.225256725762893
+fiat,fiorino,diesel,manuelle,traction,utilitaire,2021,120000,4,30000.0,10.463131911491967
+kia,rio 5p,essence,manuelle,traction,citadine,2021,60000,4,15000.0,11.082157933374816
+renault,megane,diesel,manuelle,traction,citadine,2020,125000,5,25000.0,11.07443600653965
+volkswagen,passat cc,essence,automatique,traction,berline,2014,191000,11,17363.636363636364,10.87806606028079
+mercedes-benz,classe a,hybride rechargeable essence,automatique,traction,compacte,2021,37000,4,9250.0,11.736077016252437
+volkswagen,golf 8,essence,manuelle,traction,compacte,2021,80000,4,20000.0,11.39640288460621
+opel,calibra,essence,manuelle,intégrale,coupé,1994,76000,31,2451.6129032258063,10.896757843893464
+bmw,x5,diesel,automatique,traction,suv,2007,295000,18,16388.88888888889,10.859018228147887
+bmw,x2,essence,automatique,traction,suv,2019,67000,6,11166.666666666666,11.759793355371237
+peugeot,3008,diesel,automatique,traction,suv,2020,148000,5,29600.0,11.231901180182515
+nissan,patrol,diesel,manuelle,traction,suv,1991,481000,34,14147.058823529413,10.518700218288165
+peugeot,308,essence,manuelle,traction,citadine,2020,102000,5,20400.0,10.819798284210286
+kia,seltos,essence,automatique,traction,suv,2021,130000,4,32500.0,11.39640288460621
+peugeot,expert,diesel,manuelle,traction,utilitaire,2019,139199,6,23199.833333333332,10.985309671896763
+opel,corsa,essence,manuelle,traction,citadine,2022,41000,3,13666.666666666666,11.000448478455008
+ford,focus,essence,manuelle,traction,compacte,2015,200000,10,20000.0,10.596659732783579
+chevrolet,sonic,essence,manuelle,traction,berline,2021,87000,4,21750.0,10.584081267024454
+citroën,c3,essence,manuelle,traction,citadine,2020,55000,5,11000.0,10.725489582719506
+bmw,x5,diesel,automatique,traction,suv,2010,159000,15,10600.0,11.362114203075018
+jaguar,xjl,essence,automatique,propulsion,berline,2014,51500,11,4681.818181818182,11.918397239722838
+peugeot,308,essence,manuelle,traction,citadine,2020,128000,5,25600.0,10.757924157061597
+renault,kadjar,essence,automatique,traction,suv,2018,140000,7,20000.0,11.156264806643742
+volkswagen,golf 8,essence,automatique,traction,compacte,2022,40000,3,13333.333333333334,11.49273296168228
+mercedes-benz,classe a,essence,automatique,traction,compacte,2020,63000,5,12600.0,11.842236406331555
+haval,h6,essence,automatique,traction,suv,2021,55000,4,13750.0,11.350418300109132
+haval,h6,essence,automatique,traction,suv,2022,16000,3,5333.333333333333,11.669937760751914
+ford,ecosport,essence,automatique,traction,suv,2021,99000,4,24750.0,11.184435286790631
+mercedes-benz,classe c,essence,automatique,traction,berline,2016,176000,9,19555.555555555555,11.407576060361786
+bmw,x1,essence,automatique,traction,suv,2016,126000,9,14000.0,11.264476926102367
+volkswagen,passat,essence,manuelle,traction,citadine,2016,160000,9,17777.777777777777,10.985309671896763
+mercedes-benz,ml,diesel,automatique,intégrale,suv,2010,250000,15,16666.666666666668,11.277215789596893
+bmw,série 1,essence,automatique,intégrale,compacte,2015,115000,10,11500.0,11.034905792929415
+kia,rio berline,essence,automatique,traction,berline,2019,114000,6,19000.0,10.968215530759236
+mercedes-benz,classe e,diesel,automatique,propulsion,berline,2009,161000,16,10062.5,10.985309671896763
+kia,cerato 5p,essence,manuelle,traction,compacte,2019,178000,6,29666.666666666668,10.859018228147887
+ford,ecosport,essence,automatique,traction,suv,2016,101000,9,11222.222222222223,10.968215530759236
+ford,mondeo,hybride essence,automatique,traction,berline,2020,34000,5,6800.0,11.599112335481124
+mercedes-benz,gla,essence,automatique,intégrale,suv,2016,67000,9,7444.444444444444,11.652696102959753
+kia,sportage,hybride léger essence,automatique,intégrale,suv,2022,39000,3,13000.0,11.909020140718255
+volkswagen,golf 7,essence,automatique,traction,compacte,2016,70000,9,7777.777777777777,11.571203807011969
+ford,fusion,essence,manuelle,traction,berline,2017,90000,8,11250.0,10.859018228147887
+nissan,patrol,diesel,manuelle,traction,suv,1991,417000,34,12264.70588235294,10.373522431293592
+ford,focus,essence,manuelle,traction,compacte,2018,114000,7,16285.714285714286,10.799595985047786
+porsche,cayenne,essence,automatique,traction,suv,2008,184000,17,10823.529411764706,11.350418300109132
+jaguar,xjl,essence,automatique,traction,berline,2014,51000,11,4636.363636363636,11.918397239722838
+jeep,renegade,essence,automatique,traction,suv,2019,74000,6,12333.333333333334,11.141876276228
+ford,fusion,essence,manuelle,propulsion,berline,2016,85000,9,9444.444444444445,10.950824090522445
+volkswagen,polo,essence,manuelle,traction,citadine,2021,68000,4,17000.0,10.768506042432708
+renault,megane sedan,essence,manuelle,traction,berline,2019,51000,6,8500.0,10.933124826700707
+jeep,renegade,essence,automatique,traction,suv,2021,88000,4,22000.0,11.385103457032141
+volkswagen,golf 8,essence,manuelle,traction,compacte,2021,110000,4,27500.0,11.37940550085183
+hyundai,tucson,essence,automatique,traction,suv,2023,19000,2,9500.0,11.767575435251748
+mini,3 portes,essence,manuelle,traction,citadine,2009,200000,16,12500.0,10.275085591132715
+volkswagen,jetta,essence,manuelle,traction,berline,2018,171000,7,24428.571428571428,10.949068194652432
+renault,clio,essence,manuelle,traction,citadine,2021,120000,4,30000.0,10.584081267024454
+mercedes-benz,classe c coupé,essence,automatique,traction,coupé,2012,200000,13,15384.615384615385,11.050905878263567
+mercedes-benz,classe e,diesel,automatique,traction,berline,2009,189000,16,11812.5,11.112462823634855
+mercedes-benz,cla,essence,automatique,traction,berline,2014,124000,11,11272.727272727272,11.326607934898927
+citroën,c4 cactus,essence,manuelle,traction,citadine,2015,142000,10,14200.0,10.53212287826962
+chery,tiggo 7 pro,essence,automatique,traction,suv,2022,40000,3,13333.333333333334,11.385103457032141
+volkswagen,golf 7,essence,automatique,traction,compacte,2016,75000,9,8333.333333333334,11.502885230075814
+bmw,série 4 coupé,essence,automatique,traction,coupé,2015,180000,10,18000.0,11.373674891823535
+peugeot,3008,essence,manuelle,traction,suv,2017,131000,8,16375.0,11.034905792929415
+chevrolet,sonic,essence,manuelle,traction,berline,2021,89000,4,22250.0,10.62135173563291
+dongfeng,ax4,essence,manuelle,traction,suv,2022,33000,3,11000.0,10.993748398115178
+mg,hs,essence,automatique,traction,suv,2020,87000,5,17400.0,11.263194068746921
+mercedes-benz,classe s,essence,automatique,traction,berline,2007,112000,18,6222.222222222223,11.141876276228
+peugeot,3008,essence,automatique,traction,suv,2020,112000,5,22400.0,11.141876276228
+mahindra,pick-up sc,diesel,manuelle,traction,pick up,2021,120000,4,30000.0,10.571342565808699
+ford,mustang,essence,automatique,intégrale,coupé,2010,16000,15,1066.6666666666667,11.652696102959753
+kia,rio 5p,essence,manuelle,traction,citadine,2021,70000,4,17500.0,11.034905792929415
+skoda,octavia,essence,automatique,traction,berline,2016,174000,9,19333.333333333332,10.757924157061597
+haval,h6,essence,automatique,traction,suv,2020,57000,5,11400.0,11.362114203075018
+hyundai,creta,essence,manuelle,traction,suv,2019,76000,6,12666.666666666666,11.184435286790631
+bmw,x3,diesel,automatique,traction,suv,2006,186000,19,9789.473684210527,11.082157933374816
+peugeot,partner,diesel,manuelle,propulsion,utilitaire,2020,87261,5,17452.2,10.915106645867503
+chery,tiggo 7 pro,essence,automatique,traction,suv,2024,0,1,0.0,11.522885696764481
+mahindra,kuv 100,essence,manuelle,traction,suv,2022,79000,3,26333.333333333332,10.491301994830229
+seat,leon,essence,automatique,traction,compacte,2014,96000,11,8727.272727272728,10.859018228147887
+seat,ibiza,essence,manuelle,traction,citadine,2021,68000,4,17000.0,11.034905792929415
+volkswagen,golf plus,essence,manuelle,traction,citadine,2018,72000,7,10285.714285714286,11.277215789596893
+bmw,série 3 coupé,essence,manuelle,traction,coupé,2009,232000,16,14500.0,10.594156665220533
+ford,ranger,diesel,automatique,intégrale,pick up,2020,70000,5,14000.0,11.849404844423074
+bmw,série 5,diesel,automatique,traction,berline,2010,180000,15,12000.0,11.225256725762893
+volkswagen,golf 8,essence,manuelle,traction,compacte,2021,69000,4,17250.0,11.440365524765756
+mercedes-benz,classe a berline,hybride rechargeable essence,automatique,traction,berline,2021,66000,4,16500.0,11.775297421715827
+audi,a3 sportback,essence,manuelle,traction,compacte,2016,154000,9,17111.11111111111,10.950824090522445
+ford,ecosport,essence,automatique,traction,suv,2021,77000,4,19250.0,11.097425172408931
+chery,tiggo 2,essence,manuelle,traction,suv,2020,135000,5,27000.0,10.571342565808699
+mercedes-benz,classe a,essence,manuelle,traction,compacte,2014,174000,11,15818.181818181818,10.859018228147887
+mini,clubman,essence,manuelle,traction,compacte,2019,34000,6,5666.666666666667,11.407576060361786
+mercedes-benz,cla,essence,automatique,intégrale,berline,2013,160000,12,13333.333333333334,11.264476926102367
+nissan,juke,essence,automatique,traction,suv,2024,6000,1,6000.0,11.434974734252892
+toyota,c-hr,essence,automatique,traction,suv,2018,130000,7,18571.428571428572,11.19822841866684
+land rover,range rover sport,diesel,automatique,traction,suv,2008,184000,17,10823.529411764706,11.277215789596893
+kia,rio 5p,essence,manuelle,traction,citadine,2019,68954,6,11492.333333333334,10.896757843893464
+bmw,série 3,essence,automatique,traction,berline,2012,139000,13,10692.307692307691,10.942013616092948
+citroën,c4,diesel,manuelle,traction,compacte,2014,222000,11,20181.81818181818,10.571342565808699
+mercedes-benz,ml,diesel,automatique,traction,suv,2009,240000,16,15000.0,11.289794413577894
+fiat,500x,essence,automatique,traction,suv,2018,60000,7,8571.42857142857,11.082157933374816
+toyota,corolla,essence,automatique,traction,compacte,2020,85000,5,17000.0,11.141876276228
+seat,arona,essence,automatique,traction,suv,2022,19000,3,6333.333333333333,11.39640288460621
+citroën,c4 cactus,diesel,manuelle,intégrale,compacte,2020,148000,5,29600.0,10.968215530759236
+kia,rio 5p,essence,manuelle,traction,citadine,2021,72000,4,18000.0,11.050905878263567
+hyundai,tucson,essence,automatique,intégrale,suv,2022,40000,3,13333.333333333334,11.898194668458823
+bmw,série 1,essence,automatique,propulsion,compacte,2016,165000,9,18333.333333333332,11.225256725762893
+volkswagen,polo,essence,manuelle,traction,citadine,2020,70000,5,14000.0,11.089820688682373
+peugeot,3008,essence,automatique,traction,suv,2020,75000,5,15000.0,11.225256725762893
+peugeot,3008,essence,automatique,traction,suv,2019,38000,6,6333.333333333333,11.385103457032141
+mazda,cx-9,essence,automatique,intégrale,suv,2019,155000,6,25833.333333333332,11.40646434386837
+mercedes-benz,classe e,essence,automatique,propulsion,berline,2010,197000,15,13133.333333333334,10.993748398115178
+mazda,cx-9,essence,automatique,intégrale,suv,2017,70000,8,8750.0,11.461642696843066
+audi,a3 berline,essence,manuelle,traction,berline,2020,17000,5,3400.0,11.385103457032141
+mercedes-benz,classe e,essence,automatique,traction,berline,2018,95000,7,13571.42857142857,11.842236406331555
+great wall,m4,essence,manuelle,traction,suv,2018,104000,7,14857.142857142857,10.584081267024454
+audi,q3,essence,automatique,traction,suv,2013,200000,12,16666.666666666668,11.264476926102367
+jaguar,xf,essence,automatique,propulsion,berline,2014,120000,11,10909.09090909091,11.350418300109132
+chevrolet,sonic,essence,manuelle,traction,berline,2019,163000,6,27166.666666666668,10.491301994830229
+seat,ibiza,essence,manuelle,traction,citadine,2021,169000,4,42250.0,10.768506042432708
+haval,h6,essence,automatique,traction,suv,2022,80000,3,26666.666666666668,11.49273296168228
+bmw,série 3,essence,automatique,traction,berline,2019,89000,6,14833.333333333334,11.39640288460621
+kia,sorento,diesel,automatique,traction,suv,2013,273000,12,22750.0,10.868587496017359
+haval,h6,essence,automatique,traction,suv,2021,130000,4,32500.0,11.211833885608513
+hyundai,grand i10,essence,automatique,traction,citadine,2021,62000,4,15500.0,10.817796321618971
+citroën,c1,essence,manuelle,propulsion,compacte,2011,200000,14,14285.714285714286,10.146472946063877
+renault,clio,essence,manuelle,traction,citadine,2022,65000,3,21666.666666666668,10.778977123006351
+suzuki,swift,essence,manuelle,traction,citadine,2022,100000,3,33333.333333333336,10.627430633893226
+bmw,x5,essence,automatique,traction,suv,2004,180000,21,8571.42857142857,10.778977123006351
+volkswagen,t-roc,essence,manuelle,traction,suv,2020,69000,5,13800.0,11.245059091624615
+seat,leon,essence,automatique,traction,citadine,2015,188000,10,18800.0,10.799595985047786
+mercedes-benz,classe c,essence,automatique,traction,berline,2011,190000,14,13571.42857142857,10.87806606028079
+dfsk,glory 580,essence,manuelle,traction,suv,2022,68000,3,22666.666666666668,11.251573687764477
+peugeot,partner,diesel,manuelle,traction,utilitaire,2020,148000,5,29600.0,10.736418414365376
+chery,tiggo 3x,essence,automatique,traction,suv,2021,62000,4,15500.0,10.896757843893464
+citroën,berlingo,diesel,manuelle,traction,monospace,2020,78000,5,15600.0,11.211833885608513
+kia,quoris,essence,automatique,propulsion,berline,2013,118000,12,9833.333333333334,11.127277689932466
+mercedes-benz,classe c,essence,automatique,traction,berline,2015,160000,10,16000.0,11.362114203075018
+fiat,doblo maxi,diesel,manuelle,traction,utilitaire,2021,75000,4,18750.0,10.596659732783579
+mercedes-benz,classe e,diesel,automatique,intégrale,berline,2015,232000,10,23200.0,11.314486721293981
+chery,tiggo 8 pro,essence,automatique,traction,suv,2023,7200,2,3600.0,11.599112335481124
+mercedes-benz,classe a,essence,manuelle,traction,compacte,2013,190000,12,15833.333333333334,10.778977123006351
+nissan,qashqai,essence,manuelle,traction,suv,2022,23961,3,7987.0,11.695255355062795
+kia,sportage hybride,hybride léger diesel,automatique,traction,suv,2021,99591,4,24897.75,11.608244735642321
+mercedes-benz,classe c,essence,automatique,propulsion,berline,2019,63779,6,10629.833333333334,11.91170829631447
+ssangyong,tivoli,essence,manuelle,traction,suv,2020,81751,5,16350.2,11.082157933374816
+bmw,série 5,diesel,automatique,traction,berline,2015,153451,10,15345.1,11.362114203075018
+kia,sportage,essence,automatique,traction,suv,2019,128000,6,21333.333333333332,11.332613886815139
+seat,arona,essence,manuelle,traction,suv,2018,88000,7,12571.42857142857,10.968215530759236
+volkswagen,golf 8,essence,manuelle,traction,compacte,2019,134000,6,22333.333333333332,11.350418300109132
+bmw,série 3,essence,automatique,traction,berline,2013,190000,12,15833.333333333334,11.002116507732017
+volkswagen,golf 8,essence,manuelle,traction,compacte,2022,87000,3,29000.0,11.283524879179666
+renault,megane sedan,essence,manuelle,traction,berline,2019,90000,6,15000.0,10.819798284210286
+volkswagen,tiguan,essence,automatique,traction,suv,2023,25000,2,12500.0,11.849404844423074
+ssangyong,actyon sports,diesel,manuelle,traction,pick up,2019,200000,6,33333.333333333336,11.0186455364637
+bmw,x2,essence,automatique,intégrale,suv,2020,62000,5,12400.0,11.884495917930655
+hyundai,grand i10,essence,automatique,traction,citadine,2021,87000,4,21750.0,10.789339695269716
+audi,a6,diesel,manuelle,traction,berline,2010,323000,15,21533.333333333332,10.645448706505872
+kia,rio 5p,essence,manuelle,traction,citadine,2019,47000,6,7833.333333333333,10.933124826700707
+kia,sportage,hybride essence,automatique,traction,suv,2021,100000,4,25000.0,11.635151947212842
+peugeot,308,essence,manuelle,traction,compacte,2018,50000,7,7142.857142857143,10.799595985047786
+fiat,tipo berline,essence,manuelle,traction,berline,2021,59000,4,14750.0,10.757924157061597
+changan,uni-t,essence,automatique,traction,suv,2023,9000,2,4500.0,11.695255355062795
+hyundai,veloster,essence,automatique,traction,compacte,2013,188000,12,15666.666666666666,10.463131911491967
+volkswagen,golf 8,essence,manuelle,traction,compacte,2022,98000,3,32666.666666666668,11.283524879179666
+volkswagen,passat,hybride rechargeable essence,automatique,traction,berline,2021,98000,4,24500.0,11.678448377988165
+kia,sportage,essence,automatique,intégrale,suv,2020,83000,5,16600.0,11.49273296168228
+volkswagen,t-roc,essence,manuelle,traction,citadine,2018,85000,7,12142.857142857143,11.461642696843066
+mercedes-benz,classe e,diesel,automatique,traction,berline,2010,217000,15,14466.666666666666,11.06665398721974
+mercedes-benz,classe c,essence,automatique,traction,berline,2012,206000,13,15846.153846153846,11.156264806643742
+kia,rio 5p,essence,manuelle,traction,citadine,2019,115000,6,19166.666666666668,10.799595985047786
+volkswagen,golf 7,diesel,automatique,traction,compacte,2013,217000,12,18083.333333333332,11.264476926102367
+renault,clio,hybride essence,automatique,traction,citadine,2024,6100,1,6100.0,11.49273296168228
+audi,q3,essence,automatique,traction,suv,2015,141132,10,14113.2,11.314486721293981
+hyundai,creta,essence,manuelle,traction,suv,2019,77000,6,12833.333333333334,11.211833885608513
+baic yx,kenbo s3,essence,manuelle,propulsion,suv,2018,110000,7,15714.285714285714,10.545367754151743
+ssangyong,tivoli,essence,automatique,traction,suv,2018,150000,7,21428.571428571428,10.968215530759236
+opel,combo cargo,diesel,manuelle,traction,utilitaire,2021,72000,4,18000.0,10.714439990727769
+dacia,dokker van,diesel,manuelle,traction,utilitaire,2021,97000,4,24250.0,10.545367754151743
+renault,clio,essence,manuelle,traction,compacte,2022,95000,3,31666.666666666668,10.809748150372926
+volkswagen,passat,essence,automatique,traction,berline,2015,116000,10,11600.0,11.156264806643742
+ford,fiesta,diesel,manuelle,traction,citadine,2019,140000,6,23333.333333333332,10.757924157061597
+peugeot,2008,diesel,automatique,intégrale,suv,2020,112000,5,22400.0,11.39640288460621
+volkswagen,golf 7,essence,manuelle,traction,compacte,2019,44363,6,7393.833333333333,11.350418300109132
+chery,tiggo 8 pro,essence,automatique,traction,suv,2022,40000,3,13333.333333333334,11.49273296168228
+haval,h6,essence,automatique,traction,suv,2021,80000,4,20000.0,11.289794413577894
+volkswagen,caddy,diesel,manuelle,traction,utilitaire,2020,115000,5,23000.0,10.809748150372926
+ford,fusion,essence,automatique,intégrale,berline,2017,63000,8,7875.0,10.887455624298198
+bmw,x1,essence,automatique,traction,suv,2017,110000,8,13750.0,11.350418300109132
+volkswagen,t-roc,essence,manuelle,traction,suv,2020,85000,5,17000.0,11.277215789596893
+hyundai,i20,essence,manuelle,traction,citadine,2022,30000,3,10000.0,11.065090289695444
+seat,leon,essence,manuelle,traction,compacte,2011,285000,14,20357.14285714286,10.25769445336048
+dacia,sandero stepway,essence,manuelle,traction,suv,2020,158000,5,31600.0,10.714439990727769
+nissan,qashqai,essence,manuelle,traction,suv,2014,165000,11,15000.0,10.915106645867503
+audi,q3,diesel,automatique,traction,suv,2019,75000,6,12500.0,11.884495917930655
+jaguar,x-type,essence,automatique,traction,berline,2008,197000,17,11588.235294117647,10.545367754151743
+mercedes-benz,eqa,electrique,automatique,traction,suv,2021,18646,4,4661.5,11.918397239722838
+mercedes-benz,classe b,diesel,automatique,traction,monospace,2019,226000,6,37666.666666666664,11.289794413577894
+kia,sportage,diesel,automatique,traction,suv,2010,298000,15,19866.666666666668,10.809748150372926
+kia,xceed,essence,automatique,traction,suv,2022,11000,3,3666.6666666666665,11.608244735642321
+kia,sportage,essence,automatique,traction,suv,2020,112000,5,22400.0,11.350418300109132
+bmw,série 3,essence,manuelle,traction,berline,2010,193000,15,12866.666666666666,10.645448706505872
+mitsubishi,attrage,essence,automatique,traction,berline,2018,197000,7,28142.85714285714,10.373522431293592
+geely,gx3,essence,automatique,traction,suv,2021,75000,4,18750.0,10.839600519357369
+audi,a4,essence,automatique,intégrale,berline,2017,103000,8,12875.0,11.277215789596893
+bmw,série 2 gran coupé,essence,automatique,propulsion,berline,2020,100000,5,20000.0,11.695255355062795
+toyota,corolla,essence,manuelle,traction,compacte,2021,75000,4,18750.0,11.112462823634855
+volkswagen,golf 7,essence,automatique,traction,compacte,2020,200000,5,40000.0,11.002116507732017
+toyota,yaris,essence,manuelle,traction,citadine,2021,105000,4,26250.0,10.768506042432708
+mercedes-benz,classe e,diesel,automatique,traction,berline,2012,173000,13,13307.692307692309,11.026808713825016
+mercedes-benz,classe e coupé,diesel,automatique,traction,monospace,2010,272000,15,18133.333333333332,11.082157933374816
+volkswagen,golf 8,essence,manuelle,traction,compacte,2020,42328,5,8465.6,11.48247656671073
+kia,niro hybride,hybride essence,automatique,traction,suv,2021,125000,4,31250.0,11.277215789596893
+peugeot,504,diesel,manuelle,traction,berline,1985,100000,40,2500.0,10.915106645867503
+mazda,cx-7,essence,automatique,traction,suv,2012,190000,13,14615.384615384615,10.434145214930487
+peugeot,partner,diesel,manuelle,traction,utilitaire,2021,114000,4,28500.0,10.714439990727769
+mercedes-benz,classe e,diesel,automatique,traction,berline,2010,300000,15,20000.0,10.915106645867503
+mazda,2 sedan,essence,manuelle,traction,berline,2017,140000,8,17500.0,10.657282884047461
+bmw,série 4 gran coupé,essence,automatique,traction,berline,2017,97000,8,12125.0,11.461642696843066
+ford,ecosport,essence,manuelle,traction,suv,2018,80000,7,11428.57142857143,10.97679912709094
+mazda,3,essence,manuelle,traction,compacte,2014,196000,11,17818.18181818182,10.596659732783579
+mazda,cx-3,essence,automatique,traction,suv,2018,82000,7,11714.285714285714,11.350418300109132
+peugeot,e-208,electrique,automatique,traction,citadine,2021,35000,4,8750.0,11.245059091624615
+nissan,qashqai,diesel,manuelle,traction,suv,2008,235000,17,13823.529411764706,10.419330568113901
+byd,song,essence,automatique,traction,suv,2022,45000,3,15000.0,11.338583982516495
+mg,hs,essence,automatique,traction,suv,2021,110000,4,27500.0,11.277215789596893
+mahindra,kuv 100,essence,manuelle,traction,suv,2021,100000,4,25000.0,10.32551474894327
+bmw,série 2 active tourer,diesel,manuelle,traction,suv,2016,139000,9,15444.444444444445,11.258046118484
+volkswagen,jetta,essence,manuelle,traction,berline,2014,183000,11,16636.363636363636,10.596659732783579
+jeep,renegade,essence,manuelle,traction,suv,2021,85000,4,21250.0,11.362114203075018
+audi,q3,diesel,automatique,traction,suv,2019,75000,6,12500.0,11.870606902224587
+citroën,berlingo,diesel,manuelle,traction,utilitaire,2020,119000,5,23800.0,11.097425172408931
+kia,sportage,essence,automatique,traction,suv,2021,50000,4,12500.0,11.571203807011969
+skoda,octavia,essence,automatique,traction,berline,2015,135000,10,13500.0,10.633472802314019
+kia,rio 5p,essence,manuelle,traction,citadine,2022,60000,3,20000.0,10.968215530759236
+volvo,s80,diesel,automatique,traction,berline,2012,178000,13,13692.307692307691,10.768506042432708
+skoda,octavia,essence,automatique,traction,berline,2017,160000,8,20000.0,10.968215530759236
+hyundai,i20,essence,automatique,traction,coupé,2021,53000,4,13250.0,11.141876276228
+audi,a5 coupé,essence,automatique,traction,coupé,2010,230000,15,15333.333333333334,10.799595985047786
+kia,sportage,diesel,automatique,traction,citadine,2020,84000,5,16800.0,11.608244735642321
+honda,civic,essence,automatique,traction,berline,2020,159000,5,31800.0,11.141876276228
+peugeot,landtrek double cabine,diesel,manuelle,intégrale,pick up,2022,56000,3,18666.666666666668,11.308370569092329
+volkswagen,scirocco,essence,automatique,traction,coupé,2010,154000,15,10266.666666666666,10.491301994830229
+mercedes-benz,classe e,essence,automatique,propulsion,berline,2016,53000,9,5888.888888888889,11.775297421715827
+volkswagen,golf 7,essence,manuelle,traction,compacte,2017,180000,8,22500.0,10.968215530759236
+chery,tiggo 2,essence,manuelle,traction,suv,2021,68000,4,17000.0,10.645448706505872
+volkswagen,touareg,diesel,automatique,intégrale,suv,2010,241000,15,16066.666666666666,10.757924157061597
+cupra,formentor,essence,automatique,traction,suv,2024,32000,1,32000.0,11.842236406331555
+mercedes-benz,classe c,essence,automatique,intégrale,berline,2014,148000,11,13454.545454545454,11.385103457032141
+volkswagen,polo,essence,manuelle,traction,citadine,2020,160000,5,32000.0,10.666650414667744
+renault,megane,essence,manuelle,traction,compacte,2020,68000,5,13600.0,10.87806606028079
+hyundai,accent,essence,manuelle,traction,berline,2012,184000,13,14153.846153846154,10.448743588106625
+mitsubishi,pajero,diesel,manuelle,intégrale,suv,2001,175000,24,7291.666666666667,11.082157933374816
+kia,sportage,diesel,automatique,intégrale,suv,2013,405000,12,33750.0,10.887455624298198
+opel,mokka,essence,automatique,traction,suv,2023,34368,2,17184.0,11.455730579876976
+citroën,c3,essence,manuelle,traction,citadine,2019,67000,6,11166.666666666666,10.53212287826962
+toyota,corolla sedan,essence,manuelle,traction,berline,2005,418000,20,20900.0,9.952325334619427
+bmw,x5,diesel,automatique,intégrale,suv,2007,280000,18,15555.555555555555,11.149096419938578
+volkswagen,golf 7,essence,manuelle,traction,compacte,2019,169000,6,28166.666666666668,11.042937835596494
+audi,q2,essence,automatique,traction,suv,2018,117000,7,16714.285714285714,11.302216779257382
+citroën,jumpy combi,diesel,manuelle,traction,monospace,2018,124000,7,17714.285714285714,11.314486721293981
+mini,john cooper works,essence,automatique,traction,cabriolet,2009,117000,16,7312.5,10.799595985047786
+mercedes-benz,classe e coupé,essence,automatique,traction,berline,2010,65000,15,4333.333333333333,11.434974734252892
+kia,sportage,essence,automatique,traction,suv,2021,61000,4,15250.0,11.461642696843066
+citroën,ds5,essence,automatique,traction,suv,2016,174000,9,19333.333333333332,10.596659732783579
+kia,cee'd,essence,manuelle,traction,citadine,2018,111000,7,15857.142857142857,10.894904309600681
+chery,tiggo 8 pro,essence,automatique,traction,suv,2022,20000,3,6666.666666666667,11.652696102959753
+land rover,range rover sport,diesel,automatique,intégrale,suv,2013,68000,12,5666.666666666667,11.813037464800539
+audi,q3,essence,automatique,traction,suv,2018,70000,7,10000.0,11.461642696843066
+bmw,série 3,essence,automatique,traction,berline,2019,90000,6,15000.0,11.39640288460621
+chery,tiggo 7 pro,essence,automatique,traction,suv,2022,45000,3,15000.0,11.385103457032141
+volkswagen,golf 8,hybride essence,automatique,traction,compacte,2021,49000,4,12250.0,11.6172944892629
+bmw,série 5,essence,automatique,propulsion,berline,2009,214000,16,13375.0,10.778977123006351
+audi,a5 sportback,essence,automatique,traction,berline,2021,94000,4,23500.0,11.849404844423074
+nissan,juke,essence,manuelle,traction,suv,2017,150000,8,18750.0,10.933124826700707
+land rover,range rover sport,diesel,automatique,traction,suv,2009,190000,16,11875.0,11.264476926102367
+haval,h6,essence,automatique,traction,suv,2020,82000,5,16400.0,11.289794413577894
+cupra,leon,essence,automatique,traction,citadine,2023,28000,2,14000.0,11.736077016252437
+nissan,qashqai,essence,automatique,traction,suv,2017,149000,8,18625.0,11.119897691565697
+audi,q5,essence,automatique,traction,suv,2009,194000,16,12125.0,10.714439990727769
+mercedes-benz,cla,essence,automatique,traction,berline,2015,131000,10,13100.0,11.149096419938578
+volkswagen,golf 8,hybride rechargeable essence,automatique,traction,compacte,2021,59000,4,14750.0,11.759793355371237
+volkswagen,tiguan,essence,manuelle,traction,suv,2020,94622,5,18924.4,11.652696102959753
+citroën,c4 cactus,essence,manuelle,traction,citadine,2016,148000,9,16444.444444444445,10.518700218288165
+kia,rio berline,essence,manuelle,traction,berline,2020,190000,5,38000.0,10.887455624298198
+ford,ecosport,essence,automatique,traction,suv,2016,107000,9,11888.888888888889,10.968215530759236
+renault,laguna coupé,essence,automatique,traction,coupé,2013,111000,12,9250.0,10.714439990727769
+volkswagen,golf 7,essence,automatique,traction,compacte,2020,60000,5,12000.0,11.154835234271214
+mercedes-benz,classe c,essence,automatique,propulsion,berline,2014,210000,11,19090.909090909092,11.264476926102367
+haval,h6,essence,automatique,traction,suv,2022,23000,3,7666.666666666667,11.608244735642321
+volkswagen,tiguan,essence,automatique,traction,suv,2017,189000,8,23625.0,11.3373928113354
+mitsubishi,l200 sportero,diesel,automatique,intégrale,pick up,2021,37191,4,9297.75,11.918397239722838
+kia,picanto,essence,manuelle,traction,citadine,2014,195800,11,17800.0,10.308985993422082
+mercedes-benz,classe c,essence,automatique,propulsion,berline,2009,195000,16,12187.5,10.809748150372926
+bmw,série 4 gran coupé,essence,automatique,propulsion,berline,2017,125000,8,15625.0,11.362114203075018
+volkswagen,golf 7,essence,automatique,traction,compacte,2020,200000,5,40000.0,11.0186455364637
+cupra,formentor,essence,automatique,traction,suv,2022,40000,3,13333.333333333334,11.751950239425476
+mazda,6,essence,manuelle,intégrale,berline,2016,225000,9,25000.0,10.736418414365376
+volkswagen,golf 8,hybride rechargeable essence,automatique,traction,compacte,2020,39000,5,7800.0,11.719947764402807
+volkswagen,tiguan,diesel,automatique,intégrale,suv,2014,186000,11,16909.090909090908,11.050905878263567
+nissan,micra,essence,manuelle,traction,citadine,2015,160000,10,16000.0,10.308985993422082
+volkswagen,passat cc,essence,automatique,traction,berline,2011,217000,14,15500.0,10.584081267024454
+mercedes-benz,cla,essence,automatique,traction,berline,2014,185000,11,16818.18181818182,11.112462823634855
+audi,a4,essence,automatique,traction,berline,2018,78000,7,11142.857142857143,11.373674891823535
+bmw,série 7,essence,automatique,propulsion,berline,2002,236000,23,10260.869565217392,10.768506042432708
+seat,ibiza,essence,automatique,traction,citadine,2023,40000,2,20000.0,11.225256725762893
+mercedes-benz,cla,essence,automatique,traction,berline,2021,94000,4,23500.0,11.884495917930655
+mercedes-benz,classe e coupé,essence,automatique,propulsion,coupé,2010,178000,15,11866.666666666666,11.112462823634855
+volkswagen,golf 6,essence,manuelle,traction,compacte,2012,245234,13,18864.153846153848,10.736418414365376
+peugeot,rifter,diesel,manuelle,traction,monospace,2020,160961,5,32192.2,11.225256725762893
+fiat,fiorino,diesel,manuelle,traction,utilitaire,2022,61000,3,20333.333333333332,10.55843949396453
+suzuki,vitara,essence,manuelle,traction,suv,2011,159000,14,11357.142857142857,10.55843949396453
+mini,3 portes,essence,manuelle,traction,citadine,2012,140000,13,10769.23076923077,10.545367754151743
+kia,sportage,essence,automatique,traction,suv,2020,95000,5,19000.0,11.349241150793087
+peugeot,308,diesel,manuelle,traction,compacte,2017,210000,8,26250.0,10.680539205318292
+chevrolet,suburban,essence,automatique,propulsion,suv,2007,170000,18,9444.444444444445,11.385103457032141
+peugeot,308,essence,manuelle,traction,citadine,2017,184000,8,23000.0,10.545367754151743
+volkswagen,golf 7,essence,manuelle,traction,compacte,2017,53000,8,6625.0,11.127277689932466
+bmw,série 1,essence,automatique,traction,compacte,2012,125000,13,9615.384615384615,10.778977123006351
+kia,rio 5p,essence,manuelle,traction,compacte,2021,85000,4,21250.0,10.959557617938563
+jaguar,xf,essence,automatique,propulsion,berline,2013,240000,12,20000.0,11.082157933374816
+hyundai,tucson,essence,automatique,traction,suv,2021,170000,4,42500.0,11.302216779257382
+kia,carens,diesel,automatique,traction,monospace,2015,220000,10,22000.0,10.714439990727769
+volkswagen,golf 7,essence,automatique,traction,compacte,2019,96500,6,16083.333333333334,11.050905878263567
+kia,rio 5p,essence,manuelle,traction,citadine,2021,100000,4,25000.0,10.993748398115178
+mini,clubman,diesel,manuelle,propulsion,compacte,2011,207000,14,14785.714285714286,10.463131911491967
+jaguar,xf,essence,automatique,traction,berline,2017,42000,8,5250.0,11.695255355062795
+kia,rio berline,essence,automatique,traction,berline,2022,50000,3,16666.666666666668,11.082157933374816
+citroën,berlingo,diesel,automatique,traction,utilitaire,2021,176000,4,44000.0,11.225256725762893
+mercedes-benz,classe s,essence,automatique,traction,berline,2008,169000,17,9941.176470588236,11.264476926102367
+ford,mustang,essence,automatique,traction,cabriolet,2015,60000,10,6000.0,11.759793355371237
+kia,stonic,hybride essence,automatique,propulsion,suv,2023,20000,2,10000.0,11.407576060361786
+toyota,yaris,essence,manuelle,traction,citadine,2021,100000,4,25000.0,10.703266939811954
+hyundai,creta,essence,manuelle,traction,suv,2020,57000,5,11400.0,11.251573687764477
+audi,a3 berline,essence,automatique,traction,berline,2018,70000,7,10000.0,11.231901180182515
+volkswagen,passat,essence,manuelle,traction,berline,2017,106000,8,13250.0,11.154835234271214
+peugeot,3008,essence,automatique,traction,suv,2018,135000,7,19285.714285714286,11.211833885608513
+audi,q5,diesel,automatique,traction,suv,2014,230000,11,20909.090909090908,11.407576060361786
+peugeot,2008,essence,manuelle,traction,suv,2016,142500,9,15833.333333333334,10.596659732783579
+kia,sportage,essence,automatique,traction,suv,2017,149000,8,18625.0,11.277215789596893
+haval,h6,essence,automatique,traction,suv,2021,110000,4,27500.0,11.251573687764477
+mercedes-benz,classe e,essence,automatique,traction,berline,2014,210000,11,19090.909090909092,11.277215789596893
+mini,3 portes,essence,manuelle,traction,citadine,2014,134000,11,12181.818181818182,10.584081267024454
+haval,h6,essence,automatique,traction,suv,2022,20000,3,6666.666666666667,11.661354090741
+peugeot,3008,essence,manuelle,traction,monospace,2012,160000,13,12307.692307692309,10.571342565808699
+mini,countryman,diesel,manuelle,traction,suv,2014,214000,11,19454.545454545456,10.859018228147887
+kia,sportage,essence,automatique,traction,suv,2021,25000,4,6250.0,11.49273296168228
+renault,laguna coupé,essence,automatique,traction,coupé,2013,130000,12,10833.333333333334,10.62135173563291
+audi,q5,essence,manuelle,traction,suv,2014,230000,11,20909.090909090908,10.985309671896763
+nissan,juke,essence,automatique,traction,suv,2014,158000,11,14363.636363636364,11.350418300109132
+suzuki,celerio,essence,manuelle,traction,citadine,2022,31000,3,10333.333333333334,10.545367754151743
+nissan,qashqai,essence,automatique,traction,suv,2020,135000,5,27000.0,11.277215789596893
+mercedes-benz,classe e,essence,automatique,traction,berline,2011,380000,14,27142.85714285714,10.849356503939038
+mercedes-benz,classe a,essence,automatique,traction,compacte,2015,113000,10,11300.0,11.112462823634855
+mazda,bt-50,diesel,manuelle,intégrale,pick up,2018,350000,7,50000.0,10.887455624298198
+volkswagen,amarok,diesel,automatique,traction,pick up,2017,270000,8,33750.0,11.385103457032141
+seat,leon,essence,automatique,traction,compacte,2014,270000,11,24545.454545454544,10.594156665220533
+citroën,c3,essence,manuelle,traction,citadine,2019,69000,6,11500.0,10.691967639914864
+skoda,scala,essence,automatique,traction,compacte,2020,105000,5,21000.0,11.06665398721974
+renault,velsatis,diesel,manuelle,traction,berline,2003,269000,22,12227.272727272728,9.87822102528824
+bmw,série 4 coupé,essence,automatique,propulsion,berline,2019,92041,6,15340.166666666666,11.652696102959753
+mercedes-benz,classe e coupé,essence,automatique,traction,cabriolet,2013,120000,12,10000.0,11.39640288460621
+suzuki,baleno,essence,automatique,traction,compacte,2017,190000,8,23750.0,10.53212287826962
+renault,austral,hybride essence,automatique,traction,suv,2023,60000,2,30000.0,11.736077016252437
+seat,ibiza,essence,automatique,traction,citadine,2020,110000,5,22000.0,11.097425172408931
+dacia,duster,diesel,manuelle,traction,suv,2011,190000,14,13571.42857142857,10.53212287826962
+volkswagen,golf 8,essence,automatique,traction,compacte,2021,136000,4,34000.0,11.332613886815139
+toyota,c-hr,hybride essence,automatique,propulsion,suv,2020,44000,5,8800.0,11.542493975902508
+ford,ecosport,essence,manuelle,traction,suv,2020,75000,5,15000.0,10.968215530759236
+mercedes-benz,cls,diesel,automatique,traction,coupé,2011,230000,14,16428.571428571428,11.314486721293981
+ssangyong,tivoli,essence,manuelle,traction,suv,2021,80000,4,20000.0,11.002116507732017
+iveco,daily fourgon,diesel,manuelle,traction,autres,2021,135000,4,33750.0,11.19822841866684
+chevrolet,cruze,essence,manuelle,traction,berline,2018,150000,7,21428.571428571428,10.491301994830229
+bmw,série 1 3p,essence,manuelle,traction,compacte,2012,194000,13,14923.076923076924,10.645448706505872
+nissan,qashqai,essence,manuelle,traction,suv,2020,137000,5,27400.0,11.19135563385109
+kia,sorento,essence,automatique,intégrale,suv,2016,146000,9,16222.222222222223,11.112462823634855
+peugeot,208,essence,manuelle,traction,citadine,2022,44000,3,14666.666666666666,10.596659732783579
+hyundai,tucson,diesel,automatique,intégrale,suv,2019,128000,6,21333.333333333332,11.37940550085183
+mercedes-benz,cla,essence,automatique,traction,berline,2020,81000,5,16200.0,11.736077016252437
+bmw,série 1,essence,manuelle,traction,compacte,2017,115000,8,14375.0,11.034905792929415
+hyundai,i20,essence,automatique,traction,citadine,2021,74000,4,18500.0,10.968215530759236
+skoda,octavia,essence,automatique,traction,berline,2018,124000,7,17714.285714285714,11.002116507732017
+peugeot,partner,diesel,manuelle,traction,utilitaire,2016,200000,9,22222.222222222223,10.594156665220533
+mercedes-benz,classe c,essence,automatique,traction,berline,2017,212000,8,26500.0,11.350418300109132
+mercedes-benz,classe a,essence,automatique,traction,compacte,2019,50000,6,8333.333333333334,11.775297421715827
+volkswagen,tiguan,diesel,manuelle,traction,suv,2019,96000,6,16000.0,11.461642696843066
+mercedes-benz,classe a,essence,manuelle,traction,compacte,2014,112000,11,10181.818181818182,11.07443600653965
+audi,a5 coupé,essence,automatique,propulsion,coupé,2009,180000,16,11250.0,10.87806606028079
+citroën,berlingo,diesel,automatique,traction,utilitaire,2021,75254,4,18813.5,11.350418300109132
+peugeot,2008,essence,manuelle,traction,suv,2018,130000,7,18571.428571428572,10.799595985047786
+ford,ecosport,essence,manuelle,traction,suv,2018,85000,7,12142.857142857143,10.97679912709094
+citroën,c1,essence,manuelle,traction,citadine,2018,128000,7,18285.714285714286,10.357774570341576
+citroën,berlingo,diesel,manuelle,traction,utilitaire,2021,30000,4,7500.0,10.915106645867503
+jaguar,xf,essence,automatique,traction,berline,2016,212000,9,23555.555555555555,11.373674891823535
+audi,a4,essence,automatique,traction,berline,2016,250000,9,27777.777777777777,11.127277689932466
+volkswagen,golf 8,essence,automatique,traction,compacte,2021,60700,4,15175.0,11.456365695436427
+peugeot,208,essence,manuelle,traction,citadine,2020,31500,5,6300.0,10.518700218288165
+volkswagen,golf 7,essence,manuelle,traction,compacte,2014,145000,11,13181.818181818182,10.92415631759022
+ford,ecosport,essence,manuelle,traction,suv,2018,114000,7,16285.714285714286,10.817796321618971
+peugeot,partner,diesel,manuelle,traction,utilitaire,2021,261000,4,65250.0,10.645448706505872
+mini,3 portes,essence,automatique,traction,compacte,2014,127000,11,11545.454545454546,11.050905878263567
+volkswagen,passat cc,diesel,automatique,traction,berline,2010,260000,15,17333.333333333332,10.640675541671662
+kia,sorento,diesel,automatique,intégrale,suv,2015,210000,10,21000.0,11.141876276228
+peugeot,308,essence,manuelle,traction,citadine,2022,70000,3,23333.333333333332,10.87806606028079
+volkswagen,polo,essence,manuelle,traction,citadine,2022,95000,3,31666.666666666668,11.050905878263567
+chery,tiggo 3,essence,manuelle,traction,suv,2018,77000,7,11000.0,10.757924157061597
+mazda,3,essence,manuelle,traction,compacte,2014,262000,11,23818.18181818182,10.518700218288165
+bmw,série 3,essence,manuelle,propulsion,berline,2012,246800,13,18984.615384615383,10.714439990727769
+jaguar,xe,essence,automatique,propulsion,berline,2016,139000,9,15444.444444444445,11.184435286790631
+mazda,cx-3,essence,automatique,traction,suv,2018,86000,7,12285.714285714286,11.264476926102367
+mazda,cx-5,essence,automatique,intégrale,suv,2015,201867,10,20186.7,10.915106645867503
+audi,q5,diesel,manuelle,intégrale,suv,2013,242654,12,20221.166666666668,11.277215789596893
+bmw,série 1,essence,manuelle,traction,compacte,2020,120654,5,24130.8,11.373674891823535
+peugeot,3008,essence,automatique,traction,suv,2021,110000,4,27500.0,11.050905878263567
+toyota,yaris,essence,manuelle,traction,citadine,2021,105000,4,26250.0,10.768506042432708
+mercedes-benz,classe e,essence,automatique,traction,berline,2014,230000,11,20909.090909090908,11.225256725762893
+mercedes-benz,classe c,diesel,automatique,traction,berline,2009,150000,16,9375.0,10.968215530759236
+ford,ranger,diesel,manuelle,traction,pick up,2015,200000,10,20000.0,11.350418300109132
+bmw,série 4 coupé,essence,automatique,traction,coupé,2016,100000,9,11111.111111111111,11.561725152903833
+volkswagen,eos,essence,manuelle,traction,cabriolet,2006,160000,19,8421.052631578947,10.668978650219241
+volkswagen,golf 6,essence,manuelle,traction,compacte,2011,203230,14,14516.42857142857,10.645448706505872
+peugeot,3008,diesel,manuelle,traction,suv,2021,130439,4,32609.75,11.350418300109132
+hyundai,kona,essence,automatique,intégrale,suv,2022,58000,3,19333.333333333332,11.39640288460621
+mg,zs,essence,automatique,traction,suv,2020,77000,5,15400.0,11.119897691565697
+peugeot,3008,essence,manuelle,traction,citadine,2014,195000,11,17727.272727272728,10.488520429241627
+peugeot,408,essence,automatique,traction,berline,2023,22000,2,11000.0,11.669937760751914
+volkswagen,tiguan,essence,manuelle,traction,suv,2013,180000,12,15000.0,10.859018228147887
+nissan,juke,essence,automatique,traction,suv,2023,12000,2,6000.0,11.39640288460621
+mercedes-benz,classe a,essence,automatique,traction,compacte,2020,48000,5,9600.0,11.835016210489899
+hyundai,i20,essence,manuelle,traction,citadine,2022,65000,3,21666.666666666668,10.968215530759236
+hyundai,i30,essence,automatique,traction,compacte,2021,102000,4,25500.0,11.184435286790631
+isuzu,d-max simple cabine,diesel,manuelle,traction,pick up,2025,0,0,0.0,11.827743504053695
+nissan,qashqai,diesel,manuelle,traction,suv,2014,196000,11,17818.18181818182,10.868587496017359
+jeep,renegade,essence,automatique,traction,suv,2019,150000,6,25000.0,11.06665398721974
+hummer,h3,essence,automatique,traction,suv,2007,96000,18,5333.333333333333,11.695255355062795
+ford,focus,essence,automatique,traction,compacte,2018,132000,7,18857.14285714286,10.819798284210286
+ssangyong,tivoli,essence,manuelle,traction,suv,2021,144000,4,36000.0,10.789339695269716
+kia,picanto,essence,manuelle,traction,citadine,2022,76000,3,25333.333333333332,10.571342565808699
+peugeot,boxer,diesel,manuelle,traction,utilitaire,2021,66135,4,16533.75,11.082157933374816
+cupra,formentor,hybride rechargeable essence,automatique,traction,suv,2022,43654,3,14551.333333333334,11.736077016252437
+volkswagen,golf 7,essence,manuelle,traction,compacte,2019,102162,6,17027.0,11.211833885608513
+bmw,série 3,essence,automatique,traction,berline,2013,134567,12,11213.916666666666,11.211833885608513
+bmw,série 5,diesel,automatique,traction,berline,2011,180000,14,12857.142857142857,11.264476926102367
+audi,a4,essence,automatique,traction,berline,2019,140000,6,23333.333333333332,11.277215789596893
+haval,h6,essence,automatique,traction,suv,2021,112000,4,28000.0,11.19822841866684
+bmw,série 2 gran coupé,essence,automatique,traction,berline,2021,79000,4,19750.0,11.813037464800539
+citroën,berlingo van,diesel,automatique,intégrale,utilitaire,2021,180000,4,45000.0,10.985309671896763
+citroën,nemo,diesel,manuelle,traction,utilitaire,2013,300000,12,25000.0,10.021315031649332
+citroën,ds5,diesel,automatique,traction,citadine,2013,263000,12,21916.666666666668,10.789339695269716
+mahindra,kuv 100,essence,manuelle,traction,suv,2018,169000,7,24142.85714285714,10.106469212026385
+mercedes-benz,classe c,diesel,automatique,propulsion,berline,2019,75000,6,12500.0,11.813037464800539
+kia,rio 5p,essence,manuelle,traction,citadine,2020,108000,5,21600.0,10.950824090522445
+audi,a4,essence,automatique,traction,berline,2016,260000,9,28888.88888888889,11.19822841866684
+mg,hs,essence,automatique,traction,suv,2020,20000,5,4000.0,11.326607934898927
+kia,sportage,essence,automatique,traction,suv,2017,160000,8,20000.0,11.211833885608513
+kia,sportage,diesel,automatique,intégrale,suv,2017,268000,8,33500.0,11.373674891823535
+hyundai,tucson,diesel,automatique,traction,suv,2021,168000,4,42000.0,11.332613886815139
+mercedes-benz,classe c,diesel,automatique,traction,berline,2020,39654,5,7930.8,11.759793355371237
+volkswagen,polo,essence,manuelle,traction,citadine,2011,210000,14,15000.0,10.389026137075234
+nissan,juke,essence,automatique,traction,suv,2021,59000,4,14750.0,11.283524879179666
+audi,a3 sportback,essence,automatique,traction,compacte,2022,60000,3,20000.0,11.49273296168228
+byd,song,essence,automatique,traction,suv,2021,110000,4,27500.0,11.082157933374816
+volkswagen,tiguan,essence,manuelle,intégrale,suv,2019,88000,6,14666.666666666666,11.532737896139919
+mercedes-benz,cla,diesel,manuelle,traction,berline,2018,220000,7,31428.571428571428,11.264476926102367
+kia,rio 5p,essence,manuelle,traction,citadine,2020,95000,5,19000.0,10.789339695269716
+byd,tang,essence,automatique,traction,suv,2022,1547,3,515.6666666666666,11.80560254159177
+hyundai,tucson,hybride léger diesel,automatique,traction,suv,2021,75000,4,18750.0,11.759793355371237
+mercedes-benz,cla,essence,automatique,traction,berline,2021,64000,4,16000.0,11.91170829631447
+hyundai,ioniq 5,electrique,automatique,propulsion,suv,2022,40000,3,13333.333333333334,11.813037464800539
+citroën,c5,diesel,manuelle,traction,berline,2012,226000,13,17384.615384615383,10.431199791458543
+volkswagen,passat,essence,manuelle,traction,berline,2016,133000,9,14777.777777777777,11.06665398721974
+volkswagen,golf 7,essence,manuelle,traction,compacte,2013,95077,12,7923.083333333333,10.799595985047786
+volkswagen,tiguan,essence,automatique,intégrale,suv,2009,215000,16,13437.5,10.657282884047461
+volkswagen,golf 7,essence,automatique,traction,compacte,2019,175000,6,29166.666666666668,11.0186455364637
+geely,gx3,essence,automatique,traction,suv,2021,57000,4,14250.0,10.915106645867503
+renault,kwid populaire,essence,manuelle,traction,suv,2022,39000,3,13000.0,10.53212287826962
+kia,xceed,essence,automatique,traction,suv,2022,71000,3,23666.666666666668,11.407576060361786
+citroën,berlingo,diesel,manuelle,traction,monospace,2021,110000,4,27500.0,11.211833885608513
+hyundai,i20,essence,automatique,traction,citadine,2023,34000,2,17000.0,11.403121759615027
+mazda,cx-9,essence,automatique,traction,suv,2010,190000,15,12666.666666666666,10.714439990727769
+bmw,série 3 coupé,essence,manuelle,propulsion,coupé,2012,170000,13,13076.923076923076,11.082157933374816
+volkswagen,golf 7,essence,automatique,traction,compacte,2019,66000,6,11000.0,11.338583982516495
+volkswagen,golf 8,hybride rechargeable essence,automatique,propulsion,compacte,2021,50000,4,12500.0,11.711784520403112
+mercedes-benz,classe c,diesel,automatique,propulsion,berline,2010,230000,15,15333.333333333334,10.915106645867503
+haval,h6,essence,automatique,traction,suv,2022,43000,3,14333.333333333334,11.561725152903833
+fiat,panda city cross,essence,manuelle,traction,citadine,2020,43000,5,8600.0,10.687411927154141
+ford,kuga,essence,automatique,traction,suv,2022,51500,3,17166.666666666668,11.552155793461898
+hyundai,grand i10,essence,automatique,traction,citadine,2021,70000,4,17500.0,10.819798284210286
+mg,hs,essence,automatique,intégrale,suv,2021,35000,4,8750.0,11.49273296168228
+hyundai,i20,essence,manuelle,traction,citadine,2020,66000,5,13200.0,10.799595985047786
+seat,arona,essence,automatique,traction,suv,2023,90000,2,45000.0,11.289794413577894
+ssangyong,tivoli,essence,automatique,traction,suv,2020,106000,5,21200.0,11.119897691565697
+lexus,ls 430,essence,automatique,traction,berline,2005,278000,20,13900.0,10.768506042432708
+seat,arona,essence,automatique,traction,suv,2023,90000,2,45000.0,11.283524879179666
+peugeot,boxer,diesel,manuelle,traction,utilitaire,2021,140000,4,35000.0,10.985309671896763
+chery,tiggo 7 pro,essence,automatique,traction,suv,2022,40000,3,13333.333333333334,11.350418300109132
+peugeot,partner,diesel,manuelle,traction,utilitaire,2022,85000,3,28333.333333333332,10.714439990727769
+hyundai,grand i10,essence,manuelle,traction,citadine,2021,73000,4,18250.0,10.714439990727769
+volkswagen,golf 8,essence,automatique,traction,compacte,2021,70000,4,17500.0,11.635151947212842
+volkswagen,tiguan,hybride rechargeable essence,automatique,traction,suv,2022,98000,3,32666.666666666668,11.91170829631447
+volkswagen,golf 8,essence,manuelle,traction,compacte,2021,38000,4,9500.0,11.373674891823535
+renault,clio,essence,manuelle,propulsion,citadine,2021,115000,4,28750.0,10.809748150372926
+audi,a4,essence,manuelle,traction,berline,2009,280000,16,17500.0,10.419330568113901
+peugeot,3008 gt,essence,automatique,traction,suv,2020,125000,5,25000.0,11.23850177707664
+mercedes-benz,classe a,diesel,manuelle,traction,compacte,2009,300000,16,18750.0,10.043292972227004
+jeep,compass,essence,manuelle,traction,suv,2021,81000,4,20250.0,11.289794413577894
+mercedes-benz,cla,essence,automatique,traction,berline,2022,58000,3,19333.333333333332,11.842236406331555
+mercedes-benz,classe e,essence,automatique,traction,berline,2010,230000,15,15333.333333333334,10.985309671896763
+mercedes-benz,classe e,diesel,automatique,traction,berline,2015,88280,10,8828.0,11.813037464800539
+volkswagen,golf 5,diesel,manuelle,traction,compacte,2008,340000,17,20000.0,10.491301994830229
+ds,3,essence,manuelle,traction,citadine,2016,130000,9,14444.444444444445,10.463131911491967
+fiat,linea,essence,manuelle,traction,berline,2010,198000,15,13200.0,9.648659816955295
+volkswagen,golf 7,essence,manuelle,traction,compacte,2019,64000,6,10666.666666666666,11.205054290550551
+volkswagen,transporter combi 6.1,diesel,manuelle,traction,monospace,2019,112000,6,18666.666666666668,11.39640288460621
+toyota,yaris,essence,manuelle,traction,citadine,2019,81000,6,13500.0,10.491301994830229
+chery,tiggo 3x,essence,automatique,traction,suv,2022,36000,3,12000.0,10.896757843893464
+chery,tiggo 7 pro,essence,automatique,traction,suv,2023,10000,2,5000.0,11.407576060361786
+kia,sportage,essence,automatique,traction,suv,2017,136000,8,17000.0,11.141876276228
+mercedes-benz,ml,diesel,automatique,intégrale,suv,2010,183000,15,12200.0,11.314486721293981
+nissan,juke,essence,automatique,traction,suv,2015,129000,10,12900.0,10.778977123006351
+ds,7 crossback,essence,automatique,traction,suv,2020,79000,5,15800.0,11.440365524765756
+audi,q3,essence,automatique,traction,suv,2022,52000,3,17333.333333333332,11.863589378812122
+peugeot,2008,essence,manuelle,traction,suv,2021,73000,4,18250.0,11.112462823634855
+volkswagen,golf 8,essence,manuelle,traction,compacte,2024,10900,1,10900.0,11.652696102959753
+kia,rio 5p,essence,manuelle,traction,citadine,2021,60000,4,15000.0,10.959557617938563
+jeep,renegade,essence,automatique,traction,suv,2018,142000,7,20285.714285714286,10.950824090522445
+peugeot,508,essence,automatique,traction,berline,2013,170000,12,14166.666666666666,10.382853468483827
+bmw,série 1,essence,manuelle,traction,compacte,2018,112000,7,16000.0,11.184435286790631
+seat,arona,essence,automatique,traction,suv,2023,90000,2,45000.0,11.277215789596893
+geely,gx3,essence,manuelle,traction,suv,2021,62800,4,15700.0,10.747229096720554
+fiat,panda city cross,essence,manuelle,traction,citadine,2022,42000,3,14000.0,10.633472802314019
+ford,ecosport,essence,manuelle,traction,suv,2019,90000,6,15000.0,10.859018228147887
+peugeot,407,diesel,manuelle,traction,berline,2009,260000,16,16250.0,10.221977646629885
+citroën,c3,essence,manuelle,traction,citadine,2019,83000,6,13833.333333333334,10.545367754151743
+ssangyong,tivoli,essence,manuelle,traction,suv,2022,55000,3,18333.333333333332,11.097425172408931
+kia,sportage,diesel,automatique,traction,suv,2019,78000,6,13000.0,11.326607934898927
+kia,stonic,essence,manuelle,traction,suv,2021,72000,4,18000.0,11.112462823634855
+seat,arona,essence,manuelle,traction,suv,2019,35000,6,5833.333333333333,11.141876276228
+peugeot,208,essence,manuelle,traction,citadine,2022,36567,3,12189.0,10.691967639914864
+volkswagen,golf 8,essence,manuelle,traction,compacte,2020,52282,5,10456.4,11.58989576532275
+nissan,leaf,electrique,automatique,traction,berline,2020,141764,5,28352.8,11.264476926102367
+renault,clio,essence,manuelle,traction,citadine,2018,61000,7,8714.285714285714,10.709985739582528
+mercedes-benz,gla,essence,automatique,traction,suv,2015,190000,10,19000.0,11.385103457032141
+volkswagen,golf 8,essence,automatique,traction,compacte,2020,50000,5,10000.0,11.759793355371237
+mercedes-benz,classe c coupé,essence,automatique,traction,coupé,2013,240000,12,20000.0,10.985309671896763
+bmw,série 1,essence,manuelle,propulsion,compacte,2012,193000,13,14846.153846153846,10.757924157061597
+kia,sportage,diesel,manuelle,traction,suv,2019,133000,6,22166.666666666668,11.350418300109132
+citroën,ds3,essence,manuelle,traction,citadine,2014,140000,11,12727.272727272728,10.292179440058462
+bmw,série 3,essence,automatique,propulsion,berline,2015,134000,10,13400.0,11.289794413577894
+dacia,duster,essence,manuelle,traction,suv,2013,128000,12,10666.666666666666,10.596659732783579
+kia,sportage,essence,automatique,traction,suv,2018,140000,7,20000.0,11.19822841866684
+hyundai,elantra,essence,automatique,traction,berline,2017,100000,8,12500.0,11.034905792929415
+citroën,c3,essence,manuelle,traction,citadine,2017,46000,8,5750.0,10.657282884047461
+volkswagen,golf 8,hybride rechargeable essence,automatique,propulsion,compacte,2021,74976,4,18744.0,11.695255355062795
+haval,h6,essence,automatique,traction,suv,2023,60000,2,30000.0,11.661354090741
+mercedes-benz,classe c,diesel,manuelle,traction,berline,2008,193000,17,11352.941176470587,10.915106645867503
+renault,megane,diesel,manuelle,traction,compacte,2009,309000,16,19312.5,10.373522431293592
+audi,a3 sportback,essence,manuelle,traction,compacte,2015,158000,10,15800.0,10.968215530759236
+volkswagen,passat,essence,manuelle,traction,berline,2010,305000,15,20333.333333333332,10.404293143019792
+fiat,panda city cross,essence,manuelle,traction,citadine,2021,78000,4,19500.0,10.596659732783579
+mitsubishi,l200 sportero,diesel,automatique,intégrale,pick up,2022,41000,3,13666.666666666666,11.884495917930655
+volkswagen,passat,essence,manuelle,traction,berline,2017,143000,8,17875.0,10.933124826700707
+toyota,verso,diesel,manuelle,traction,monospace,2014,200000,11,18181.81818181818,10.915106645867503
+peugeot,3008,essence,automatique,traction,suv,2019,200000,6,33333.333333333336,11.225256725762893
+kia,rio 5p,essence,manuelle,traction,citadine,2021,100000,4,25000.0,11.010415172807951
+mini,coupé,essence,manuelle,traction,coupé,2011,180000,14,12857.142857142857,10.32551474894327
+great wall,wingle 5 double cabine,diesel,manuelle,propulsion,pick up,2019,140000,6,23333.333333333332,10.859018228147887
+kia,sportage,hybride léger diesel,automatique,traction,suv,2022,97000,3,32333.333333333332,11.678448377988165
+mazda,6,essence,manuelle,traction,berline,2017,170000,8,21250.0,10.778977123006351
+fiat,ducato,diesel,manuelle,traction,utilitaire,1998,470000,27,17407.40740740741,9.581972891547895
+volkswagen,golf 7,essence,manuelle,traction,compacte,2014,189000,11,17181.81818181818,10.789339695269716
+kia,sportage,diesel,automatique,intégrale,suv,2019,66559,6,11093.166666666666,11.775297421715827
+land rover,range rover evoque,essence,automatique,intégrale,suv,2012,180000,13,13846.153846153846,11.264476926102367
+hyundai,i30 fastback,essence,automatique,traction,berline,2022,87000,3,29000.0,11.251573687764477
+nissan,qashqai,essence,automatique,traction,suv,2021,220000,4,55000.0,11.112462823634855
+volkswagen,golf 7,diesel,manuelle,traction,compacte,2019,183854,6,30642.333333333332,11.19822841866684
+peugeot,208,essence,manuelle,traction,citadine,2022,38088,3,12696.0,10.691967639914864
+peugeot,3008,diesel,automatique,traction,suv,2020,137031,5,27406.2,11.338583982516495
+peugeot,2008,essence,manuelle,traction,suv,2017,80000,8,10000.0,10.714439990727769
+toyota,corolla,essence,automatique,traction,compacte,2023,30000,2,15000.0,11.277215789596893
+suzuki,jimny 3 portes,essence,automatique,intégrale,suv,2023,30000,2,15000.0,11.429554725537322
+bmw,série 1,essence,automatique,traction,compacte,2020,93000,5,18600.0,11.686887175419702
+ford,fiesta,essence,manuelle,traction,citadine,2017,197000,8,24625.0,10.373522431293592
+volkswagen,passat,essence,manuelle,traction,berline,2021,110000,4,27500.0,11.326607934898927
+audi,a4,essence,automatique,traction,berline,2017,252000,8,31500.0,11.127277689932466
+hyundai,accent,essence,manuelle,traction,berline,2014,374000,11,34000.0,10.404293143019792
+ford,ecosport,essence,automatique,traction,suv,2022,36000,3,12000.0,11.141876276228
+nissan,qashqai,essence,automatique,traction,suv,2020,95900,5,19180.0,11.127277689932466
+fiat,500,essence,automatique,traction,citadine,2022,59000,3,19666.666666666668,10.950824090522445
+kia,rio 5p,essence,manuelle,traction,citadine,2020,92000,5,18400.0,10.809748150372926
+seat,leon,essence,manuelle,traction,compacte,2015,166000,10,16600.0,10.680539205318292
+hyundai,i20,essence,automatique,traction,citadine,2022,48000,3,16000.0,11.112462823634855
+volkswagen,golf 7,essence,manuelle,traction,compacte,2017,84000,8,10500.0,11.141876276228
+citroën,c3,essence,automatique,traction,citadine,2019,70000,6,11666.666666666666,10.645448706505872
+citroën,c3,essence,manuelle,traction,citadine,2019,81000,6,13500.0,10.477316144080852
+fiat,500x cross,essence,automatique,traction,suv,2022,64000,3,21333.333333333332,11.05881093278828
+citroën,c3,essence,manuelle,traction,citadine,2017,118000,8,14750.0,10.463131911491967
+toyota,corolla cross hybride,hybride essence,automatique,intégrale,suv,2024,10000,1,10000.0,11.835016210489899
+mahindra,kuv 100,essence,manuelle,traction,suv,2021,60000,4,15000.0,10.404293143019792
+land rover,discovery sport,diesel,automatique,intégrale,suv,2015,246000,10,24600.0,11.407576060361786
+peugeot,208,essence,manuelle,traction,citadine,2015,169000,10,16900.0,10.25769445336048
+toyota,corolla,essence,automatique,traction,berline,2024,4000,1,4000.0,11.39640288460621
+bmw,série 3,essence,automatique,traction,berline,2013,210000,12,17500.0,10.968215530759236
+renault,captur,essence,automatique,traction,suv,2017,66670,8,8333.75,10.839600519357369
+citroën,c5,diesel,manuelle,traction,berline,2009,345000,16,21562.5,10.12667110305036
+audi,a4,essence,automatique,traction,berline,2017,110000,8,13750.0,11.225256725762893
+mercedes-benz,classe c,essence,manuelle,propulsion,berline,2014,158000,11,14363.636363636364,11.251573687764477
+kia,sportage,diesel,automatique,traction,suv,2019,158000,6,26333.333333333332,11.373674891823535
+seat,leon sc,essence,manuelle,traction,compacte,2018,163000,7,23285.714285714286,10.736418414365376
+ford,fusion,essence,manuelle,traction,berline,2016,175000,9,19444.444444444445,10.778977123006351
+mercedes-benz,classe c,diesel,manuelle,traction,berline,2013,290000,12,24166.666666666668,10.859018228147887
+mercedes-benz,classe c,essence,manuelle,traction,berline,2012,44000,13,3384.6153846153848,11.350418300109132
+peugeot,3008,diesel,automatique,traction,suv,2020,178000,5,35600.0,11.264476926102367
+mercedes-benz,classe c,diesel,automatique,traction,berline,2014,350000,11,31818.18181818182,11.264476926102367
+bmw,x1,essence,automatique,traction,suv,2017,121000,8,15125.0,11.350418300109132
+baic yx,kenbo s2,essence,manuelle,propulsion,suv,2017,77000,8,9625.0,10.545367754151743
+seat,leon,diesel,manuelle,traction,compacte,2019,182000,6,30333.333333333332,10.985309671896763
+mercedes-benz,classe a,essence,automatique,traction,compacte,2017,150000,8,18750.0,11.082157933374816
+hyundai,ix35,essence,automatique,traction,suv,2015,218000,10,21800.0,10.859018228147887
+kia,sportage hybride,diesel,automatique,intégrale,suv,2021,50000,4,12500.0,11.736077016252437
+peugeot,308,essence,manuelle,traction,compacte,2020,117000,5,23400.0,10.668978650219241
+peugeot,2008,essence,manuelle,traction,suv,2017,153000,8,19125.0,10.596659732783579
+suzuki,vitara,essence,automatique,intégrale,suv,2018,242000,7,34571.42857142857,10.809748150372926
+peugeot,3008,essence,automatique,traction,suv,2020,55000,5,11000.0,11.289794413577894
+mercedes-benz,classe e,diesel,automatique,traction,berline,2010,198000,15,13200.0,10.950824090522445
+volkswagen,golf 8,essence,automatique,traction,compacte,2023,62000,2,31000.0,11.678448377988165
+mazda,cx-3,essence,automatique,traction,suv,2017,145000,8,18125.0,11.141876276228
+mitsubishi,attrage,essence,manuelle,traction,berline,2022,71000,3,23666.666666666668,10.53212287826962
+kia,sportage,essence,automatique,traction,suv,2010,166000,15,11066.666666666666,10.819798284210286
+mg,hs,essence,automatique,traction,suv,2022,130000,3,43333.333333333336,11.156264806643742
+citroën,c-elysée,essence,manuelle,traction,berline,2018,203000,7,29000.0,10.221977646629885
+skoda,octavia,diesel,automatique,traction,berline,2021,135000,4,33750.0,11.326607934898927
+volkswagen,jetta,diesel,manuelle,traction,berline,2006,500000,19,26315.78947368421,10.203629181337648
+bmw,série 1,essence,automatique,traction,compacte,2020,100000,5,20000.0,11.571203807011969
+dongfeng,s50,essence,manuelle,traction,berline,2019,171000,6,28500.0,10.463131911491967
+ford,ecosport,essence,manuelle,traction,suv,2022,51000,3,17000.0,11.082157933374816
+mercedes-benz,gla,essence,automatique,traction,suv,2015,97000,10,9700.0,11.461642696843066
+nissan,qashqai,essence,manuelle,traction,suv,2014,150000,11,13636.363636363636,10.942013616092948
+audi,a3 sportback,diesel,manuelle,traction,compacte,2021,148000,4,37000.0,11.373674891823535
+kia,xceed,essence,manuelle,traction,suv,2022,62000,3,20666.666666666668,11.283524879179666
+peugeot,208,essence,automatique,traction,citadine,2021,98000,4,24500.0,10.896757843893464
+volkswagen,golf 8,essence,manuelle,traction,compacte,2021,81000,4,20250.0,11.338583982516495
+peugeot,208,essence,manuelle,traction,citadine,2013,98000,12,8166.666666666667,10.203629181337648
+great wall,poer at,diesel,automatique,intégrale,pick up,2024,13000,1,13000.0,11.661354090741
+volkswagen,polo sedan,essence,manuelle,traction,berline,2022,57000,3,19000.0,10.97679912709094
+chery,arrizo 3,essence,manuelle,traction,berline,2020,137000,5,27400.0,10.419330568113901
+bmw,série 4 coupé,essence,automatique,propulsion,coupé,2014,178000,11,16181.818181818182,11.19822841866684
+audi,a6,essence,automatique,traction,berline,2009,204000,16,12750.0,10.645448706505872
+volkswagen,passat,essence,automatique,traction,berline,2021,190000,4,47500.0,11.39640288460621
+iveco,daily fourgon,diesel,automatique,traction,utilitaire,2017,182000,8,22750.0,10.915106645867503
+peugeot,208,essence,manuelle,traction,citadine,2020,38000,5,7600.0,10.463131911491967
+ds,3 crossback,essence,automatique,traction,suv,2020,98000,5,19600.0,11.156264806643742
+volkswagen,caddy,diesel,manuelle,traction,utilitaire,2017,110000,8,13750.0,10.714439990727769
+peugeot,508,diesel,automatique,traction,berline,2017,171000,8,21375.0,10.968215530759236
+cupra,formentor,hybride rechargeable essence,automatique,traction,suv,2022,43000,3,14333.333333333334,11.767575435251748
+citroën,c3,essence,manuelle,traction,citadine,2020,46000,5,9200.0,10.463131911491967
+volkswagen,passat,essence,manuelle,traction,berline,2017,104000,8,13000.0,11.050905878263567
+volkswagen,golf 7,essence,automatique,traction,compacte,2020,22000,5,4400.0,11.502885230075814
+bmw,série 5,diesel,automatique,propulsion,berline,2016,150000,9,16666.666666666668,11.39640288460621
+volkswagen,transporter fourgon 6.1,diesel,manuelle,traction,utilitaire,2019,139000,6,23166.666666666668,11.112462823634855
+suzuki,jimny 3 portes,essence,automatique,intégrale,suv,2023,51000,2,25500.0,11.373674891823535
+mercedes-benz,classe c,essence,automatique,intégrale,berline,2013,160000,12,13333.333333333334,10.985309671896763
+mercedes-benz,classe e,diesel,automatique,propulsion,berline,2011,130000,14,9285.714285714286,11.082157933374816
+mercedes-benz,cla,essence,automatique,traction,berline,2020,80000,5,16000.0,11.759793355371237
+bmw,série 6,essence,automatique,traction,coupé,2009,195000,16,12187.5,11.277215789596893
+hyundai,i30,essence,automatique,traction,compacte,2022,138000,3,46000.0,11.149096419938578
+jeep,renegade,essence,manuelle,traction,suv,2017,51000,8,6375.0,11.225256725762893
+mg,gs,essence,automatique,intégrale,suv,2017,202000,8,25250.0,10.896757843893464
+volkswagen,golf 7,essence,automatique,traction,compacte,2018,134000,7,19142.85714285714,11.082157933374816
+kia,sportage,essence,automatique,traction,suv,2019,85000,6,14166.666666666666,11.350418300109132
+mercedes-benz,classe e coupé,essence,automatique,propulsion,coupé,2014,53000,11,4818.181818181818,11.571203807011969
+peugeot,308,essence,manuelle,traction,compacte,2017,167000,8,20875.0,10.584081267024454
+volkswagen,tiguan,essence,manuelle,traction,suv,2013,133700,12,11141.666666666666,10.950824090522445
+mercedes-benz,classe c,diesel,automatique,traction,berline,2020,69000,5,13800.0,11.835016210489899
+kia,seltos,essence,automatique,traction,suv,2021,160000,4,40000.0,11.19822841866684
+peugeot,3008 gt,essence,automatique,traction,suv,2022,49800,3,16600.0,11.608244735642321
+hyundai,grand i10,essence,manuelle,traction,citadine,2021,45000,4,11250.0,10.736418414365376
+toyota,prado,diesel,manuelle,intégrale,suv,1999,400000,26,15384.615384615385,11.034905792929415
+nissan,qashqai,essence,manuelle,traction,suv,2014,194000,11,17636.363636363636,10.778977123006351
+fiat,500,essence,automatique,traction,citadine,2020,53000,5,10600.0,10.799595985047786
+land rover,range rover evoque,diesel,automatique,intégrale,suv,2012,81000,13,6230.7692307692305,11.608244735642321
+volkswagen,golf 7,essence,automatique,traction,compacte,2018,98000,7,14000.0,11.156264806643742
+mercedes-benz,classe e,essence,automatique,intégrale,berline,2011,230000,14,16428.571428571428,10.933124826700707
+ford,fiesta,essence,manuelle,traction,citadine,2015,224000,10,22400.0,10.30229722897745
+seat,altea,diesel,manuelle,traction,compacte,2018,160000,7,22857.14285714286,10.757924157061597
+cupra,formentor,hybride rechargeable essence,automatique,traction,suv,2022,41000,3,13666.666666666666,11.751950239425476
+mercedes-benz,gla,essence,automatique,traction,suv,2018,67000,7,9571.42857142857,11.775297421715827
+ford,fiesta,essence,manuelle,propulsion,citadine,2009,260700,16,16293.75,9.99884318585288
+volkswagen,golf 6,essence,manuelle,traction,compacte,2010,278000,15,18533.333333333332,10.505094936455558
+opel,astra,essence,manuelle,traction,compacte,2021,67000,4,16750.0,11.034905792929415
+kia,rio 5p,essence,manuelle,traction,citadine,2018,70700,7,10100.0,10.868587496017359
+seat,arona,essence,automatique,traction,suv,2021,50000,4,12500.0,11.289794413577894
+ford,fusion,essence,manuelle,traction,berline,2015,432000,10,43200.0,10.691967639914864
+mercedes-benz,classe e,essence,automatique,propulsion,berline,2011,200000,14,14285.714285714286,10.714439990727769
+mercedes-benz,classe c,essence,automatique,propulsion,berline,2016,208000,9,23111.11111111111,11.23850177707664
+citroën,ds3,essence,automatique,traction,citadine,2012,100000,13,7692.307692307692,10.308985993422082
+jeep,renegade,essence,automatique,traction,suv,2021,68000,4,17000.0,11.289794413577894
+volkswagen,polo,essence,manuelle,traction,citadine,2022,88000,3,29333.333333333332,10.985309671896763
+nissan,juke,essence,automatique,traction,suv,2022,52000,3,17333.333333333332,11.289794413577894
+fiat,fiorino,diesel,manuelle,traction,utilitaire,2022,31000,3,10333.333333333334,10.645448706505872
+peugeot,3008,essence,automatique,traction,suv,2019,190000,6,31666.666666666668,10.915106645867503
+mazda,3,essence,manuelle,traction,compacte,2015,108000,10,10800.0,10.680539205318292
+ford,focus sedan,essence,manuelle,traction,berline,2018,134000,7,19142.85714285714,10.657282884047461
+porsche,cayenne,essence,automatique,intégrale,suv,2009,210000,16,13125.0,11.264476926102367
+toyota,corolla,essence,automatique,traction,compacte,2021,110000,4,27500.0,11.06665398721974
+chery,arrizo 3,essence,manuelle,traction,berline,2020,138000,5,27600.0,10.357774570341576
+peugeot,3008,essence,automatique,traction,suv,2020,59500,5,11900.0,11.225256725762893
+ford,focus,essence,automatique,traction,compacte,2017,155000,8,19375.0,10.545367754151743
+ford,focus sedan,essence,manuelle,traction,berline,2017,109500,8,13687.5,10.778977123006351
+kia,rio 5p,essence,manuelle,traction,citadine,2021,75000,4,18750.0,11.0186455364637
+volkswagen,golf 7,essence,manuelle,traction,compacte,2015,160000,10,16000.0,10.839600519357369
+renault,clio,diesel,manuelle,propulsion,citadine,2017,200000,8,25000.0,10.591647316585027
+volkswagen,caddy,diesel,manuelle,traction,utilitaire,2014,300000,11,27272.727272727272,10.308985993422082
+volkswagen,tiguan,essence,automatique,intégrale,suv,2018,56882,7,8126.0,11.561725152903833
+jaguar,x-type,essence,manuelle,propulsion,berline,2001,90000,24,3750.0,10.308985993422082
+renault,clio,essence,manuelle,traction,citadine,2021,85950,4,21487.5,10.87806606028079
+renault,clio,essence,manuelle,traction,citadine,2021,90230,4,22557.5,10.87806606028079
+audi,a1,essence,manuelle,traction,citadine,2012,148000,13,11384.615384615385,10.799595985047786
+dacia,sandero stepway,essence,manuelle,traction,suv,2017,137500,8,17187.5,10.571342565808699
+peugeot,301,essence,manuelle,traction,berline,2014,165000,11,15000.0,9.99884318585288
+bmw,série 5,essence,automatique,propulsion,berline,2018,43000,7,6142.857142857143,11.775297421715827
+fiat,500,essence,manuelle,propulsion,citadine,2017,109000,8,13625.0,10.53212287826962
+bmw,série 4 coupé,essence,automatique,propulsion,coupé,2016,48000,9,5333.333333333333,11.775297421715827
+bmw,série 3,essence,automatique,propulsion,berline,2014,171000,11,15545.454545454546,11.19822841866684
+citroën,jumpy fourgon,diesel,manuelle,traction,utilitaire,2022,123000,3,41000.0,11.06665398721974
+dongfeng,sx3,essence,manuelle,traction,suv,2021,37000,4,9250.0,10.915106645867503
+bmw,série 4 gran coupé,essence,automatique,propulsion,berline,2017,132500,8,16562.5,11.362114203075018
+toyota,c-hr,essence,automatique,traction,suv,2020,110000,5,22000.0,11.302216779257382
+renault,clio,essence,manuelle,traction,citadine,2016,218000,9,24222.222222222223,10.434145214930487
+mg,zs,essence,automatique,traction,suv,2022,51500,3,17166.666666666668,11.177466714598282
+mercedes-benz,clk,essence,automatique,propulsion,coupé,2005,80000,20,4000.0,10.645448706505872
+hyundai,grand i10,essence,automatique,traction,citadine,2021,66500,4,16625.0,10.691967639914864
+suzuki,vitara,essence,automatique,intégrale,suv,2018,138000,7,19714.285714285714,10.950824090522445
+peugeot,rifter,diesel,manuelle,traction,monospace,2020,195000,5,39000.0,11.314486721293981
+hyundai,i20,essence,manuelle,traction,citadine,2020,62000,5,12400.0,10.799595985047786
+ford,ranger,diesel,automatique,intégrale,pick up,2022,44000,3,14666.666666666666,11.827013315851762
+volkswagen,golf 6,essence,manuelle,traction,compacte,2010,230000,15,15333.333333333334,10.518700218288165
+ford,kuga,essence,automatique,intégrale,suv,2017,120000,8,15000.0,11.06665398721974
+renault,clio,essence,manuelle,traction,citadine,2021,90000,4,22500.0,10.933124826700707
+renault,megane,diesel,manuelle,traction,compacte,2021,148000,4,37000.0,10.87806606028079
+renault,clio,essence,manuelle,traction,citadine,2022,118000,3,39333.333333333336,10.809748150372926
+chery,tiggo 3x,essence,automatique,traction,suv,2022,59500,3,19833.333333333332,10.87806606028079
+toyota,rav 4,hybride essence,automatique,intégrale,suv,2020,99000,5,19800.0,11.775297421715827
+cupra,formentor,hybride rechargeable essence,automatique,traction,suv,2022,87000,3,29000.0,11.813037464800539
+mg,zs,essence,automatique,traction,suv,2022,70000,3,23333.333333333332,11.350418300109132
+honda,city,essence,automatique,traction,berline,2020,185000,5,37000.0,10.757924157061597
+mercedes-benz,classe c,diesel,automatique,propulsion,berline,2021,70000,4,17500.0,11.918397239722838
+fiat,panda,essence,manuelle,traction,citadine,2016,130000,9,14444.444444444445,10.30229722897745
+bmw,série 3,essence,automatique,propulsion,berline,2015,159000,10,15900.0,10.799595985047786
+jeep,compass,diesel,manuelle,traction,suv,2011,147000,14,10500.0,10.894904309600681
+lada,4x4,essence,manuelle,intégrale,suv,2019,30000,6,5000.0,10.691967639914864
+fiat,500,essence,manuelle,traction,cabriolet,2014,175000,11,15909.09090909091,10.373522431293592
+kia,seltos,essence,automatique,traction,suv,2023,15000,2,7500.0,11.652696102959753
+volkswagen,golf 8,essence,manuelle,traction,compacte,2020,50000,5,10000.0,11.300981463909618
+kia,sportage,essence,automatique,traction,suv,2018,181000,7,25857.14285714286,11.082157933374816
+mg,zs,essence,automatique,traction,suv,2018,159000,7,22714.285714285714,10.933124826700707
+mercedes-benz,cla,essence,automatique,traction,berline,2022,83000,3,27666.666666666668,11.813037464800539
+volkswagen,caddy,diesel,manuelle,traction,utilitaire,2017,193000,8,24125.0,10.584081267024454
+mini,cooper s,essence,automatique,traction,compacte,2009,203000,16,12687.5,10.12667110305036
+lexus,ct,hybride essence,automatique,traction,compacte,2019,114000,6,19000.0,11.407576060361786
+fiat,doblo,diesel,manuelle,traction,utilitaire,2023,36000,2,18000.0,10.657282884047461
+ford,kuga,essence,manuelle,traction,suv,2017,127000,8,15875.0,10.942013616092948
+mahindra,kuv 100,essence,manuelle,traction,suv,2021,60000,4,15000.0,10.434145214930487
+hyundai,i20,essence,manuelle,traction,citadine,2022,40000,3,13333.333333333334,11.010415172807951
+mg,hs,essence,automatique,traction,suv,2022,59000,3,19666.666666666668,11.418625774449598
+mercedes-benz,cls,diesel,automatique,traction,coupé,2009,388000,16,24250.0,11.002116507732017
+isuzu,d-max double cabine,diesel,manuelle,intégrale,pick up,2022,109000,3,36333.333333333336,11.23850177707664
+ford,focus,essence,automatique,traction,compacte,2017,142000,8,17750.0,10.594156665220533
+cupra,formentor,essence,automatique,traction,suv,2022,50000,3,16666.666666666668,11.678448377988165
+kia,rio 5p,essence,manuelle,traction,citadine,2020,107044,5,21408.8,10.915106645867503
+mercedes-benz,classe a,essence,manuelle,propulsion,compacte,2013,79000,12,6583.333333333333,10.950824090522445
+hyundai,tucson,diesel,automatique,traction,suv,2020,80000,5,16000.0,11.49273296168228
+mercedes-benz,classe c,essence,automatique,propulsion,berline,2015,249000,10,24900.0,11.326607934898927
+bmw,x2,essence,automatique,traction,suv,2020,76000,5,15200.0,11.759793355371237
+mercedes-benz,classe c,diesel,manuelle,traction,berline,2011,323000,14,23071.428571428572,10.819798284210286
+fiat,tipo 5 portes,essence,manuelle,traction,compacte,2021,100000,4,25000.0,10.757924157061597
+kia,k2700,diesel,manuelle,intégrale,pick up,2018,149000,7,21285.714285714286,10.968215530759236
+kia,sportage,essence,automatique,traction,suv,2019,150000,6,25000.0,11.225256725762893
+volkswagen,golf 8,essence,automatique,traction,compacte,2021,80000,4,20000.0,11.44999631476691
+chevrolet,sonic,essence,automatique,traction,citadine,2022,68000,3,22666.666666666668,10.714439990727769
+jeep,compass,essence,automatique,traction,suv,2023,37000,2,18500.0,11.884495917930655
+nissan,juke,essence,automatique,traction,suv,2013,150000,12,12500.0,10.566201298475118
+kia,stonic,essence,manuelle,traction,suv,2020,48000,5,9600.0,11.149096419938578
+jeep,compass,essence,automatique,traction,suv,2016,63000,9,7000.0,10.799595985047786
+toyota,agya,essence,manuelle,traction,citadine,2021,115000,4,28750.0,10.389026137075234
+mercedes-benz,cla,hybride rechargeable essence,automatique,intégrale,berline,2021,60000,4,15000.0,11.91170829631447
+ford,fusion,essence,manuelle,traction,berline,2015,215000,10,21500.0,10.789339695269716
+renault,kadjar,essence,automatique,traction,suv,2019,71000,6,11833.333333333334,11.225256725762893
+bmw,série 7,essence,automatique,traction,berline,2010,200000,15,13333.333333333334,11.350418300109132
+mercedes-benz,classe a,essence,automatique,traction,compacte,2014,104400,11,9490.90909090909,11.0186455364637
+volkswagen,golf 7,essence,manuelle,traction,compacte,2016,134000,9,14888.888888888889,10.87806606028079
+suzuki,s-presso,essence,manuelle,traction,suv,2020,52000,5,10400.0,10.34177474101152
+mercedes-benz,classe c coupé,essence,manuelle,traction,coupé,2012,200000,13,15384.615384615385,11.002116507732017
+kia,sportage,diesel,automatique,intégrale,suv,2018,150000,7,21428.571428571428,11.385103457032141
+ford,focus,essence,manuelle,traction,compacte,2017,83000,8,10375.0,10.714439990727769
+geely,gc6,essence,manuelle,traction,berline,2019,126749,6,21124.833333333332,10.373522431293592
+mercedes-benz,classe b,essence,manuelle,traction,monospace,2013,137000,12,11416.666666666666,10.518700218288165
+mercedes-benz,classe e coupé,essence,automatique,traction,coupé,2013,125000,12,10416.666666666666,11.289794413577894
+mercedes-benz,classe c,diesel,automatique,propulsion,berline,2007,229000,18,12722.222222222223,10.714439990727769
+toyota,rav 4,hybride essence,automatique,traction,suv,2023,55207,2,27603.5,11.813037464800539
+hummer,h3,essence,manuelle,traction,suv,2005,51026,20,2551.3,11.608244735642321
+kia,rio 5p,essence,manuelle,traction,citadine,2022,67078,3,22359.333333333332,11.097425172408931
+toyota,c-hr,hybride essence,automatique,traction,suv,2021,64726,4,16181.5,11.608244735642321
+chery,tiggo 2,essence,manuelle,traction,suv,2020,86142,5,17228.4,10.714439990727769
+mercedes-benz,classe e,diesel,automatique,propulsion,berline,2009,185000,16,11562.5,11.225256725762893
+kia,sorento,essence,automatique,propulsion,suv,2014,295233,11,26839.363636363636,10.915106645867503
+citroën,jumper,diesel,manuelle,traction,utilitaire,2022,170000,3,56666.666666666664,10.896757843893464
+haval,h6,essence,automatique,traction,suv,2020,60000,5,12000.0,11.350418300109132
+seat,ateca,essence,automatique,traction,suv,2023,50000,2,25000.0,11.580593459194764
+peugeot,2008,essence,automatique,traction,suv,2020,126000,5,25200.0,11.127277689932466
+peugeot,308,essence,manuelle,traction,compacte,2012,228000,13,17538.46153846154,10.203629181337648
+haval,h2,essence,automatique,traction,suv,2017,65000,8,8125.0,10.915106645867503
+renault,megane,essence,manuelle,traction,compacte,2011,179800,14,12842.857142857143,10.404293143019792
+bmw,série 1,essence,automatique,traction,compacte,2022,55000,3,18333.333333333332,11.58989576532275
+jeep,renegade,essence,automatique,traction,suv,2025,6000,0,6000.0,11.736077016252437
+renault,megane,essence,manuelle,traction,compacte,2017,54000,8,6750.0,11.082157933374816
+peugeot,rcz,essence,manuelle,traction,coupé,2011,92000,14,6571.428571428572,10.657282884047461
+mercedes-benz,classe a,essence,manuelle,traction,compacte,2013,134000,12,11166.666666666666,10.859018228147887
+toyota,yaris,essence,manuelle,traction,citadine,2014,183000,11,16636.363636363636,10.404293143019792
+mercedes-benz,classe e,diesel,automatique,traction,berline,2010,276000,15,18400.0,10.87806606028079
+peugeot,3008,essence,automatique,traction,suv,2018,78000,7,11142.857142857143,11.141876276228
+kia,rio 5p,essence,manuelle,traction,citadine,2021,100000,4,25000.0,10.950824090522445
+ford,ecosport,essence,manuelle,traction,suv,2020,76000,5,15200.0,10.933124826700707
+baic yx,kenbo s2,essence,manuelle,propulsion,suv,2018,165000,7,23571.428571428572,10.55843949396453
+mahindra,kuv 100,essence,manuelle,traction,suv,2021,42000,4,10500.0,10.434145214930487
+seat,ibiza,essence,manuelle,traction,citadine,2019,145000,6,24166.666666666668,10.691967639914864
+nissan,qashqai,essence,automatique,traction,suv,2016,159000,9,17666.666666666668,11.026808713825016
+nissan,qashqai+2,diesel,manuelle,traction,suv,2012,270000,13,20769.23076923077,10.657282884047461
+volkswagen,t-roc,essence,manuelle,traction,suv,2019,82000,6,13666.666666666666,11.277215789596893
+ford,fiesta,essence,manuelle,traction,citadine,2016,85000,9,9444.444444444445,10.645448706505872
+chery,arrizo 5,essence,manuelle,traction,berline,2019,160000,6,26666.666666666668,10.55843949396453
+honda,brio amaze,essence,manuelle,traction,berline,2016,84000,9,9333.333333333334,10.275085591132715
+alfa romeo,giulietta,essence,manuelle,traction,compacte,2018,78000,7,11142.857142857143,11.002116507732017
+chevrolet,trax,essence,manuelle,intégrale,suv,2019,130000,6,21666.666666666668,10.714439990727769
+volkswagen,golf 5,essence,manuelle,traction,compacte,2008,270000,17,15882.35294117647,10.308985993422082
+mercedes-benz,classe a,hybride rechargeable essence,automatique,traction,compacte,2021,35000,4,8750.0,11.759793355371237
+chery,arrizo 3,essence,manuelle,traction,berline,2022,63000,3,21000.0,10.680539205318292
+dacia,dokker van,diesel,manuelle,traction,utilitaire,2019,118000,6,19666.666666666668,10.448743588106625
+volkswagen,amarok,diesel,manuelle,intégrale,pick up,2014,255000,11,23181.81818181818,10.915106645867503
+isuzu,d-max double cabine,diesel,manuelle,intégrale,pick up,2017,95000,8,11875.0,11.686887175419702
+kia,sportage,essence,automatique,traction,suv,2017,106000,8,13250.0,11.127277689932466
+mitsubishi,pajero,diesel,automatique,intégrale,suv,2004,350000,21,16666.666666666668,10.985309671896763
+renault,clio,essence,manuelle,traction,citadine,2019,105899,6,17649.833333333332,10.545367754151743
+mercedes-benz,cla,essence,automatique,propulsion,berline,2020,86000,5,17200.0,11.87757552297847
+bmw,série 3,essence,automatique,propulsion,berline,2016,232000,9,25777.777777777777,11.23850177707664
+volkswagen,passat,essence,manuelle,traction,berline,2008,236000,17,13882.35294117647,10.308985993422082
+skoda,karoq,essence,automatique,traction,suv,2022,61500,3,20500.0,11.775297421715827
+renault,megane,essence,manuelle,traction,compacte,2020,49000,5,9800.0,11.112462823634855
+kia,sportage,essence,automatique,intégrale,suv,2017,167000,8,20875.0,11.277215789596893
+opel,astra,essence,manuelle,traction,compacte,2017,149000,8,18625.0,10.463131911491967
+peugeot,2008,essence,manuelle,traction,suv,2018,129000,7,18428.571428571428,10.645448706505872
+volkswagen,golf 7,essence,manuelle,traction,compacte,2017,120000,8,15000.0,11.097425172408931
+bmw,série 3,essence,automatique,traction,berline,2010,140000,15,9333.333333333334,10.933124826700707
+kia,sportage,essence,automatique,intégrale,suv,2020,25000,5,5000.0,11.608244735642321
+skoda,fabia,essence,manuelle,traction,citadine,2021,69000,4,17250.0,10.736418414365376
+volkswagen,golf 8,essence,manuelle,traction,compacte,2022,89000,3,29666.666666666668,11.277215789596893
+mercedes-benz,classe a,essence,automatique,traction,compacte,2016,139000,9,15444.444444444445,11.141876276228
+renault,captur,essence,manuelle,traction,suv,2014,176000,11,16000.0,10.477316144080852
+suzuki,vitara,essence,automatique,traction,suv,2020,80000,5,16000.0,11.112462823634855
+ford,focus,essence,manuelle,traction,compacte,2016,145000,9,16111.111111111111,10.584081267024454
+bmw,série 1,essence,automatique,propulsion,compacte,2016,124000,9,13777.777777777777,11.050905878263567
+renault,captur,essence,manuelle,traction,suv,2015,165000,10,16500.0,10.714439990727769
+citroën,c3,essence,manuelle,traction,citadine,2017,151000,8,18875.0,10.308985993422082
+bmw,série 4 gran coupé,essence,automatique,propulsion,berline,2017,125000,8,15625.0,11.314486721293981
+renault,clio,essence,manuelle,traction,citadine,2021,128000,4,32000.0,10.839600519357369
+ds,4 crossback,essence,manuelle,traction,compacte,2016,109000,9,12111.111111111111,10.714439990727769
+renault,megane,diesel,manuelle,traction,compacte,2007,149000,18,8277.777777777777,10.16203685698089
+ssangyong,tivoli,essence,manuelle,traction,suv,2022,41000,3,13666.666666666666,11.112462823634855
+volkswagen,amarok,diesel,manuelle,intégrale,pick up,2013,260000,12,21666.666666666668,11.184435286790631
+renault,clio,hybride essence,automatique,traction,citadine,2024,2638,1,2638.0,11.429554725537322
+volkswagen,polo,essence,manuelle,traction,citadine,2021,123700,4,30925.0,10.680539205318292
+mercedes-benz,classe a berline,diesel,automatique,traction,berline,2021,84000,4,21000.0,11.775297421715827
+mg,zs,essence,automatique,traction,suv,2022,77000,3,25666.666666666668,11.141876276228
+fiat,palio,essence,manuelle,traction,citadine,2004,360000,21,17142.85714285714,9.61587214452889
+volkswagen,polo sedan,essence,manuelle,traction,berline,2021,52000,4,13000.0,10.839600519357369
+ford,ecosport,essence,manuelle,traction,suv,2022,97000,3,32333.333333333332,10.933124826700707
+chery,tiggo 7 pro,essence,automatique,traction,suv,2023,40000,2,20000.0,11.586185220346932
+bmw,série 3,essence,automatique,propulsion,berline,2013,125249,12,10437.416666666666,11.314486721293981
+nissan,qashqai,essence,automatique,propulsion,suv,2018,155000,7,22142.85714285714,11.089820688682373
+ford,fusion,essence,automatique,traction,berline,2015,147000,10,14700.0,10.819798284210286
+land rover,range rover evoque,diesel,automatique,intégrale,suv,2016,188000,9,20888.88888888889,11.402005077384885
+volkswagen,golf 8,essence,manuelle,traction,compacte,2021,80000,4,20000.0,11.283524879179666
+toyota,c-hr,essence,automatique,traction,suv,2021,90000,4,22500.0,11.373674891823535
+volkswagen,golf 7,diesel,automatique,traction,compacte,2017,140000,8,17500.0,11.141876276228
+seat,arona,essence,manuelle,traction,suv,2022,37000,3,12333.333333333334,11.184435286790631
+mercedes-benz,classe c,diesel,manuelle,traction,berline,2009,180000,16,11250.0,10.768506042432708
+nissan,qashqai,essence,automatique,traction,suv,2017,73000,8,9125.0,10.859018228147887
+volkswagen,polo,essence,manuelle,propulsion,citadine,2010,263047,15,17536.466666666667,10.221977646629885
+land rover,range rover evoque,diesel,automatique,intégrale,suv,2017,144000,8,18000.0,11.39640288460621
+seat,arona,essence,automatique,traction,suv,2020,67000,5,13400.0,11.184435286790631
+fiat,panda city cross,essence,manuelle,traction,citadine,2020,43000,5,8600.0,10.734242182303689
+haval,h6,essence,automatique,traction,suv,2022,80000,3,26666.666666666668,11.661354090741
+suzuki,ertiga,essence,manuelle,traction,monospace,2021,150000,4,37500.0,10.859018228147887
+ds,7 crossback,essence,automatique,traction,suv,2020,140000,5,28000.0,11.314486721293981
+volkswagen,caddy,diesel,manuelle,traction,utilitaire,2021,98500,4,24625.0,10.950824090522445
+nissan,qashqai,essence,automatique,traction,suv,2020,60000,5,12000.0,11.289794413577894
+renault,megane,essence,automatique,traction,compacte,2020,120000,5,24000.0,10.915106645867503
+mg,3,essence,automatique,traction,citadine,2020,45000,5,9000.0,10.819798284210286
+volkswagen,golf 7,essence,manuelle,traction,compacte,2018,84000,7,12000.0,11.156264806643742
+volkswagen,golf 7,essence,manuelle,traction,compacte,2013,180000,12,15000.0,10.736418414365376
+peugeot,2008,essence,manuelle,traction,suv,2021,98000,4,24500.0,11.082157933374816
+kia,rio berline,essence,manuelle,traction,berline,2010,201000,15,13400.0,10.043292972227004
+peugeot,2008,essence,manuelle,traction,suv,2020,70000,5,14000.0,11.082157933374816
+audi,a3 sportback,essence,automatique,traction,compacte,2018,114000,7,16285.714285714286,11.277215789596893
+kia,sportage,diesel,automatique,intégrale,suv,2019,73000,6,12166.666666666666,11.407576060361786
+jeep,renegade,essence,automatique,traction,suv,2020,87000,5,17400.0,11.184435286790631
+peugeot,expert,diesel,automatique,traction,utilitaire,2020,69000,5,13800.0,11.277215789596893
+volkswagen,passat,essence,manuelle,traction,berline,2019,105000,6,17500.0,11.23850177707664
+mercedes-benz,classe e,diesel,automatique,propulsion,berline,2012,200000,13,15384.615384615385,11.06665398721974
+volkswagen,golf 7,essence,manuelle,traction,compacte,2019,105000,6,17500.0,11.127277689932466
+nissan,qashqai+2,diesel,manuelle,intégrale,suv,2012,155000,13,11923.076923076924,10.714439990727769
+volkswagen,tiguan,essence,manuelle,intégrale,suv,2010,243000,15,16200.0,10.596659732783579
+suzuki,baleno,essence,automatique,traction,compacte,2018,95200,7,13600.0,10.950824090522445
+haval,h6,essence,automatique,traction,suv,2022,75000,3,25000.0,11.561725152903833
+volkswagen,golf 8,essence,automatique,traction,compacte,2020,49000,5,9800.0,11.49273296168228
+fiat,500,essence,manuelle,traction,citadine,2022,71000,3,23666.666666666668,10.915106645867503
+mini,3 portes,essence,manuelle,traction,citadine,2012,140000,13,10769.23076923077,10.463131911491967
+fiat,panda,essence,manuelle,traction,citadine,2011,107000,14,7642.857142857143,10.184937747111391
+nissan,qashqai,essence,automatique,traction,suv,2021,135000,4,33750.0,11.23850177707664
+renault,megane,essence,manuelle,traction,compacte,2020,100000,5,20000.0,10.778977123006351
+ford,fusion,essence,manuelle,traction,berline,2017,100000,8,12500.0,10.859018228147887
+suzuki,vitara,essence,automatique,intégrale,suv,2017,224000,8,28000.0,10.968215530759236
+peugeot,208,essence,manuelle,traction,citadine,2013,50000,12,4166.666666666667,10.177362240256695
+mahindra,kuv 100,essence,manuelle,traction,suv,2020,43000,5,8600.0,10.404293143019792
+audi,q5,diesel,automatique,intégrale,suv,2011,254000,14,18142.85714285714,11.338583982516495
+citroën,c2,essence,manuelle,traction,citadine,2009,230000,16,14375.0,9.798182590890704
+mercedes-benz,cla,hybride rechargeable essence,automatique,propulsion,berline,2021,49000,4,12250.0,11.904974309480183
+kia,seltos,essence,automatique,traction,suv,2023,26000,2,13000.0,11.561725152903833
+seat,leon,essence,manuelle,traction,compacte,2020,190000,5,38000.0,11.184435286790631
+volkswagen,golf 6,essence,manuelle,traction,compacte,2011,280000,14,20000.0,10.584081267024454
+volkswagen,polo sedan,essence,manuelle,traction,berline,2022,113000,3,37666.666666666664,10.768506042432708
+dacia,duster,diesel,manuelle,traction,suv,2021,211000,4,52750.0,11.05881093278828
+volkswagen,passat,essence,automatique,traction,berline,2021,182000,4,45500.0,11.373674891823535
+ford,fiesta,essence,manuelle,intégrale,citadine,2010,184000,15,12266.666666666666,10.085850775128717
+peugeot,2008,essence,manuelle,traction,suv,2017,154000,8,19250.0,10.645448706505872
+ssangyong,tivoli,essence,manuelle,traction,suv,2021,80000,4,20000.0,10.933124826700707
+ford,ecosport,essence,automatique,traction,suv,2022,37000,3,12333.333333333334,11.141876276228
+tata,xenon x2 double cabine 4x2,diesel,manuelle,propulsion,pick up,2021,112000,4,28000.0,10.518700218288165
+kia,sportage,essence,automatique,intégrale,suv,2011,147000,14,10500.0,10.859018228147887
+iveco,daily fourgon,diesel,manuelle,propulsion,utilitaire,2017,211000,8,26375.0,11.184435286790631
+bmw,série 2 gran coupé,essence,automatique,traction,berline,2022,80000,3,26666.666666666668,11.695255355062795
+audi,a3 sportback,essence,automatique,traction,compacte,2023,1377,2,688.5,11.813037464800539
+cupra,leon,hybride rechargeable essence,automatique,traction,compacte,2021,60000,4,15000.0,11.695255355062795
+audi,a4,essence,automatique,traction,berline,2013,148000,12,12333.333333333334,10.915106645867503
+bmw,x5,essence,automatique,traction,suv,2002,250000,23,10869.565217391304,10.404293143019792
+mercedes-benz,classe e coupé,essence,automatique,intégrale,coupé,2010,180000,15,12000.0,11.127277689932466
+hyundai,grand i10,essence,manuelle,traction,citadine,2022,53600,3,17866.666666666668,10.571342565808699
+ford,ecosport,essence,manuelle,traction,suv,2022,79000,3,26333.333333333332,11.127277689932466
+mg,5,essence,manuelle,traction,berline,2020,95000,5,19000.0,10.778977123006351
+citroën,berlingo van,diesel,manuelle,traction,utilitaire,2022,100000,3,33333.333333333336,10.819798284210286
+kia,seltos,essence,automatique,traction,suv,2021,130000,4,32500.0,11.373674891823535
+ford,fiesta,essence,manuelle,traction,citadine,2012,168000,13,12923.076923076924,10.292179440058462
+hyundai,grand i10 sedan,essence,manuelle,traction,berline,2022,41000,3,13666.666666666666,10.789339695269716
+peugeot,partner,diesel,manuelle,traction,utilitaire,2019,150000,6,25000.0,10.819798284210286
+kia,sportage,essence,automatique,traction,suv,2018,93013,7,13287.57142857143,11.277215789596893
+cupra,formentor,essence,automatique,traction,suv,2024,39000,1,39000.0,11.798111925972618
+mercedes-benz,cla,essence,automatique,intégrale,berline,2014,87000,11,7909.090909090909,11.277215789596893
+hyundai,grand i10,essence,automatique,traction,citadine,2018,65000,7,9285.714285714286,10.668978650219241
+audi,q2,essence,automatique,intégrale,suv,2019,100000,6,16666.666666666668,11.23850177707664
+kia,seltos,essence,automatique,traction,suv,2022,87000,3,29000.0,11.385103457032141
+peugeot,207,essence,manuelle,traction,citadine,2012,227681,13,17513.923076923078,10.043292972227004
+toyota,c-hr,essence,manuelle,traction,suv,2018,86000,7,12285.714285714286,11.19822841866684
+peugeot,308,essence,automatique,traction,compacte,2017,156000,8,19500.0,10.596659732783579
+dacia,logan,essence,manuelle,intégrale,berline,2020,130000,5,26000.0,10.645448706505872
+bmw,x3,essence,automatique,intégrale,suv,2017,91000,8,11375.0,11.561725152903833
+renault,fluence,essence,manuelle,traction,berline,2016,170000,9,18888.88888888889,10.419330568113901
+kia,rio 5p,essence,manuelle,traction,citadine,2018,125000,7,17857.14285714286,10.876177521259402
+kia,sportage,essence,automatique,traction,suv,2018,180000,7,25714.285714285714,11.156264806643742
+toyota,c-hr,essence,automatique,traction,suv,2020,200000,5,40000.0,11.225256725762893
+bmw,x5,diesel,automatique,intégrale,suv,2006,345000,19,18157.894736842107,10.714439990727769
+jeep,grand cherokee,diesel,automatique,intégrale,suv,2007,90000,18,5000.0,11.736077016252437
+chery,qq,essence,manuelle,traction,citadine,2018,60000,7,8571.42857142857,10.064798252418377
+volkswagen,polo,essence,manuelle,traction,citadine,2022,140000,3,46666.666666666664,10.725489582719506
+citroën,c3,essence,manuelle,traction,citadine,2018,80000,7,11428.57142857143,10.62135173563291
+citroën,c3,essence,manuelle,traction,citadine,2018,110000,7,15714.285714285714,10.55843949396453
+mg,zs,essence,automatique,traction,suv,2021,33500,4,8375.0,11.211833885608513
+mercedes-benz,classe a,essence,automatique,intégrale,compacte,2015,139000,10,13900.0,11.277215789596893
+mahindra,kuv 100,essence,manuelle,traction,suv,2020,81500,5,16300.0,10.357774570341576
+kia,rio 5p,essence,manuelle,traction,citadine,2018,118000,7,16857.14285714286,10.915106645867503
+alfa romeo,mito,essence,manuelle,traction,citadine,2010,245000,15,16333.333333333334,10.239995502805316
+bmw,série 3,diesel,automatique,propulsion,berline,2014,275000,11,25000.0,11.112462823634855
+nissan,juke,essence,automatique,traction,suv,2011,192135,14,13723.92857142857,10.571342565808699
+hyundai,kona,hybride essence,automatique,traction,suv,2024,7000,1,7000.0,11.561725152903833
+kia,rio berline,essence,manuelle,traction,berline,2022,48000,3,16000.0,11.06665398721974
+mercedes-benz,classe e,diesel,automatique,propulsion,berline,2019,85000,6,14166.666666666666,11.835016210489899
+mercedes-benz,gla,hybride rechargeable essence,automatique,traction,suv,2021,51355,4,12838.75,11.91170829631447
+honda,hr-v,essence,automatique,traction,suv,2020,70000,5,14000.0,11.362114203075018
+seat,leon,essence,manuelle,traction,compacte,2022,56000,3,18666.666666666668,11.23850177707664
+volkswagen,t-cross,essence,manuelle,traction,suv,2022,18500,3,6166.666666666667,11.362114203075018
+mg,zs,essence,automatique,traction,suv,2021,74000,4,18500.0,11.082157933374816
+mini,3 portes,essence,manuelle,traction,citadine,2015,99000,10,9900.0,11.026808713825016
+citroën,c3,essence,manuelle,traction,citadine,2017,45000,8,5625.0,10.668978650219241
+audi,a5 sportback,diesel,automatique,traction,berline,2010,222000,15,14800.0,10.714439990727769
+mg,hs,essence,automatique,traction,suv,2022,89000,3,29666.666666666668,11.338583982516495
+mercedes-benz,classe c,essence,automatique,propulsion,berline,2015,150000,10,15000.0,11.338583982516495
+renault,megane sedan,essence,manuelle,traction,berline,2020,129000,5,25800.0,10.789339695269716
+kia,rio berline,essence,manuelle,traction,berline,2019,144000,6,24000.0,10.91328684226798
+citroën,c4,diesel,automatique,traction,compacte,2022,50000,3,16666.666666666668,11.350418300109132
+ford,focus,essence,automatique,traction,compacte,2014,176000,11,16000.0,10.518700218288165
+skoda,octavia,essence,automatique,traction,berline,2022,124000,3,41333.333333333336,11.277215789596893
+nissan,patrol,diesel,automatique,intégrale,suv,2002,335000,23,14565.217391304348,10.545367754151743
+peugeot,208,essence,automatique,propulsion,citadine,2020,112000,5,22400.0,10.896757843893464
+hyundai,tucson,essence,automatique,intégrale,suv,2022,75000,3,25000.0,11.678448377988165
+bmw,série 1,diesel,manuelle,propulsion,compacte,2013,200000,12,16666.666666666668,10.87806606028079
+ford,probe,essence,manuelle,traction,coupé,1998,300000,27,11111.111111111111,10.085850775128717
+mazda,2,essence,manuelle,traction,citadine,2016,167000,9,18555.555555555555,10.55843949396453
+renault,symbol,essence,manuelle,traction,berline,2017,155000,8,19375.0,10.571342565808699
+nissan,qashqai,diesel,manuelle,traction,suv,2021,87000,4,21750.0,11.39640288460621
+mercedes-benz,classe a,hybride rechargeable essence,automatique,traction,compacte,2021,76000,4,19000.0,11.767575435251748
+citroën,berlingo,diesel,manuelle,traction,monospace,2018,178000,7,25428.571428571428,10.680539205318292
+citroën,c3,diesel,manuelle,traction,citadine,2021,123000,4,30750.0,10.809748150372926
+mercedes-benz,classe c,diesel,manuelle,propulsion,berline,2006,400000,19,21052.63157894737,10.404293143019792
+skoda,kamiq,essence,automatique,traction,suv,2023,33000,2,16500.0,11.429554725537322
+toyota,yaris,essence,manuelle,traction,citadine,2020,85000,5,17000.0,10.609081944147828
+isuzu,nkr 66 simple cabine,diesel,manuelle,intégrale,utilitaire,2013,350000,12,29166.666666666668,11.002116507732017
+peugeot,2008,essence,automatique,traction,suv,2019,130000,6,21666.666666666668,10.714439990727769
+jeep,renegade,essence,automatique,traction,suv,2022,35000,3,11666.666666666666,11.326607934898927
+mazda,cx-9,essence,automatique,intégrale,suv,2015,76000,10,7600.0,11.407576060361786
+renault,clio,essence,manuelle,traction,citadine,2008,263000,17,15470.588235294117,10.043292972227004
+honda,accord,essence,automatique,traction,berline,2024,8000,1,8000.0,11.813037464800539
+mercedes-benz,classe b,essence,automatique,traction,monospace,2006,293000,19,15421.052631578947,10.064798252418377
+ford,fiesta,essence,manuelle,traction,citadine,2017,142000,8,17750.0,10.488520429241627
+nissan,qashqai,essence,automatique,traction,suv,2021,133000,4,33250.0,11.127277689932466
+baic yx,kenbo s2,essence,manuelle,propulsion,suv,2016,120000,9,13333.333333333334,10.373522431293592
+ford,ecosport,essence,manuelle,traction,suv,2023,35000,2,17500.0,11.205054290550551
+volkswagen,golf 8,essence,manuelle,traction,compacte,2022,59000,3,19666.666666666668,11.326607934898927
+ford,focus sedan,essence,manuelle,propulsion,berline,2009,252000,16,15750.0,9.798182590890704
+ford,focus,essence,automatique,traction,coupé,2023,19000,2,9500.0,11.407576060361786
+volkswagen,tiguan,essence,automatique,traction,suv,2021,98000,4,24500.0,11.678448377988165
+jaguar,x-type,diesel,manuelle,traction,berline,2008,70000,17,4117.64705882353,11.002116507732017
+volkswagen,polo sedan,essence,manuelle,traction,berline,2023,85000,2,42500.0,10.993748398115178
+seat,ibiza,essence,automatique,traction,citadine,2022,74000,3,24666.666666666668,11.082157933374816
+baic yx,kenbo s2,essence,manuelle,propulsion,suv,2018,93000,7,13285.714285714286,10.62135173563291
+renault,captur,essence,manuelle,traction,suv,2021,110000,4,27500.0,10.819798284210286
+volkswagen,golf 8,essence,automatique,traction,compacte,2023,21000,2,10500.0,11.80560254159177
+mercedes-benz,cla,hybride rechargeable essence,automatique,traction,berline,2020,35000,5,7000.0,11.884495917930655
+renault,captur,essence,manuelle,traction,suv,2015,140000,10,14000.0,10.53212287826962
+peugeot,208,essence,manuelle,traction,citadine,2016,106000,9,11777.777777777777,10.404293143019792
+mercedes-benz,classe a,essence,automatique,traction,compacte,2021,42000,4,10500.0,11.884495917930655
+citroën,c4 cactus,essence,manuelle,traction,compacte,2015,61000,10,6100.0,10.463131911491967
+volkswagen,golf 8,essence,automatique,traction,compacte,2021,55900,4,13975.0,11.445727410406752
+peugeot,308,essence,manuelle,traction,compacte,2012,191000,13,14692.307692307691,10.221977646629885
+peugeot,208,essence,manuelle,traction,citadine,2020,38000,5,7600.0,10.477316144080852
+mercedes-benz,cla,hybride rechargeable essence,automatique,propulsion,berline,2020,65000,5,13000.0,11.884495917930655
+great wall,poer mt,diesel,manuelle,intégrale,pick up,2022,75000,3,25000.0,11.407576060361786
+hyundai,tucson,essence,automatique,intégrale,suv,2023,80000,2,40000.0,11.695255355062795
+renault,clio,essence,manuelle,traction,citadine,2013,180000,12,15000.0,10.463131911491967
+chery,tiggo 3x,essence,automatique,traction,suv,2023,48000,2,24000.0,10.959557617938563
+mini,3 portes,essence,manuelle,traction,citadine,2012,140000,13,10769.23076923077,10.477316144080852
+renault,kadjar,essence,manuelle,traction,suv,2020,150000,5,30000.0,10.778977123006351
+peugeot,3008,essence,automatique,traction,suv,2021,134000,4,33500.0,11.289794413577894
+fiat,fiorino,diesel,manuelle,traction,utilitaire,2022,103000,3,34333.333333333336,10.662913925885341
+kia,sportage,diesel,automatique,intégrale,suv,2012,230000,13,17692.30769230769,10.915106645867503
+ford,fusion,essence,automatique,traction,berline,2021,21000,4,5250.0,11.571203807011969
+kia,rio 5p,essence,manuelle,traction,citadine,2018,116049,7,16578.428571428572,10.829748417047593
+renault,trafic,diesel,manuelle,traction,monospace,2004,236000,21,11238.095238095239,10.184937747111391
+hyundai,i20,essence,manuelle,traction,citadine,2022,65000,3,21666.666666666668,11.06665398721974
+chery,tiggo 2,essence,manuelle,traction,suv,2020,116000,5,23200.0,10.645448706505872
+mercedes-benz,classe a,essence,manuelle,traction,compacte,2014,174000,11,15818.181818181818,10.915106645867503
+mercedes-benz,classe a,diesel,manuelle,traction,compacte,2013,226000,12,18833.333333333332,11.002116507732017
+volkswagen,jetta,essence,manuelle,traction,berline,2009,288000,16,18000.0,10.428245666832275
+renault,captur,essence,manuelle,traction,suv,2021,180000,4,45000.0,10.714439990727769
+ford,fiesta,essence,manuelle,traction,citadine,2013,90000,12,7500.0,10.448743588106625
+chery,arrizo 5,essence,manuelle,traction,berline,2020,136000,5,27200.0,10.668978650219241
+mercedes-benz,classe c,essence,automatique,propulsion,berline,2016,92000,9,10222.222222222223,11.561725152903833
+ssangyong,xlv,essence,manuelle,traction,suv,2018,150000,7,21428.571428571428,10.714439990727769
+peugeot,2008,diesel,manuelle,propulsion,suv,2021,86000,4,21500.0,11.082157933374816
+volkswagen,virtus,essence,automatique,traction,berline,2023,46500,2,23250.0,11.112462823634855
+ssangyong,tivoli,essence,automatique,traction,suv,2016,120000,9,13333.333333333334,10.778977123006351
+kia,stonic,essence,manuelle,traction,suv,2024,27000,1,27000.0,11.407576060361786
+hyundai,veloster,essence,automatique,traction,compacte,2017,158000,8,19750.0,10.645448706505872
+mini,3 portes,essence,manuelle,traction,citadine,2009,125000,16,7812.5,10.448743588106625
+citroën,c3,essence,manuelle,traction,citadine,2019,30000,6,5000.0,10.55843949396453
+opel,astra,diesel,manuelle,traction,compacte,2006,80000,19,4210.526315789473,9.975854724662028
+mercedes-benz,classe s,essence,automatique,intégrale,berline,2006,124000,19,6526.315789473684,11.19822841866684
+audi,q5,essence,automatique,intégrale,suv,2009,270000,16,16875.0,10.596659732783579
+renault,clio,essence,manuelle,traction,citadine,2019,109000,6,18166.666666666668,10.668978650219241
+kia,rio 5p,essence,manuelle,traction,citadine,2022,110000,3,36666.666666666664,10.839600519357369
+mercedes-benz,cl,essence,automatique,propulsion,coupé,2007,150000,18,8333.333333333334,11.407576060361786
+kia,cerato 5p,essence,automatique,traction,compacte,2015,280000,10,28000.0,10.491301994830229
+hyundai,i20,essence,manuelle,traction,citadine,2020,88000,5,17600.0,10.933124826700707
+kia,xceed,essence,automatique,traction,suv,2022,63000,3,21000.0,11.542493975902508
+fiat,500,essence,manuelle,traction,citadine,2022,51000,3,17000.0,10.87806606028079
+citroën,c3,essence,manuelle,traction,citadine,2019,80000,6,13333.333333333334,10.62135173563291
+peugeot,2008,essence,manuelle,traction,suv,2014,89000,11,8090.909090909091,10.518700218288165
+chevrolet,sonic 4p,essence,manuelle,traction,berline,2021,47500,4,11875.0,10.596659732783579
+fiat,doblo,diesel,manuelle,traction,utilitaire,2017,245000,8,30625.0,10.043292972227004
+toyota,rav 4,essence,automatique,intégrale,suv,2016,57000,9,6333.333333333333,11.234546649377918
+chevrolet,cruze,essence,manuelle,traction,berline,2011,180000,14,12857.142857142857,10.203629181337648
+citroën,berlingo,diesel,manuelle,traction,utilitaire,2015,206000,10,20600.0,10.34177474101152
+hyundai,grand i10,essence,manuelle,traction,citadine,2021,170000,4,42500.0,10.633472802314019
+mercedes-benz,classe a,essence,automatique,traction,compacte,2013,110000,12,9166.666666666666,10.87806606028079
+chery,tiggo 2,essence,manuelle,traction,suv,2020,63000,5,12600.0,10.645448706505872
+suzuki,baleno,essence,automatique,traction,compacte,2017,70000,8,8750.0,10.915106645867503
+kia,seltos,essence,automatique,traction,suv,2022,68000,3,22666.666666666668,11.373674891823535
+fiat,tipo berline,essence,manuelle,traction,berline,2023,43000,2,21500.0,10.985309671896763
+nissan,qashqai,diesel,manuelle,traction,suv,2014,279500,11,25409.090909090908,10.968215530759236
+audi,q3,essence,manuelle,traction,suv,2016,65000,9,7222.222222222223,11.283524879179666
+toyota,c-hr,essence,automatique,traction,suv,2021,100000,4,25000.0,11.264476926102367
+honda,hr-v,essence,manuelle,traction,suv,2018,250000,7,35714.28571428572,10.968215530759236
+jeep,renegade,essence,automatique,traction,suv,2021,74000,4,18500.0,11.23850177707664
+haval,h6,essence,automatique,traction,suv,2022,75000,3,25000.0,11.407576060361786
+kia,rio 5p,essence,manuelle,traction,citadine,2020,122000,5,24400.0,10.819798284210286
+kia,rio berline,essence,automatique,traction,berline,2021,85000,4,21250.0,11.002116507732017
+fiat,palio,essence,manuelle,traction,citadine,2005,220000,20,11000.0,9.472781556562168
+skoda,kushaq,essence,automatique,traction,suv,2023,33000,2,16500.0,11.277215789596893
+ford,focus,essence,manuelle,traction,compacte,2016,144000,9,16000.0,10.645448706505872
+mercedes-benz,classe c,diesel,automatique,traction,berline,2008,414000,17,24352.941176470587,10.799595985047786
+kia,stonic,hybride léger essence,manuelle,traction,suv,2021,91000,4,22750.0,11.112462823634855
+toyota,corolla,essence,automatique,traction,compacte,2020,105000,5,21000.0,11.156264806643742
+toyota,yaris sedan,essence,manuelle,traction,berline,2017,82000,8,10250.0,10.778977123006351
+chery,tiggo 2,essence,manuelle,traction,suv,2022,98000,3,32666.666666666668,10.703266939811954
+volkswagen,golf 8,essence,manuelle,traction,compacte,2021,52000,4,13000.0,11.350418300109132
+mazda,3,essence,manuelle,traction,compacte,2017,95000,8,11875.0,10.933124826700707
+seat,ibiza,essence,manuelle,traction,citadine,2014,250000,11,22727.272727272728,10.434145214930487
+haval,h6,essence,automatique,traction,suv,2019,119323,6,19887.166666666668,11.264476926102367
+volkswagen,transporter combi 6.1,diesel,manuelle,traction,monospace,2014,447000,11,40636.36363636364,10.463131911491967
+dacia,dokker van,diesel,manuelle,traction,utilitaire,2014,250000,11,22727.272727272728,10.064798252418377
+kia,sportage,diesel,manuelle,traction,suv,2017,108000,8,13500.0,11.350418300109132
+haval,h6,essence,automatique,traction,suv,2023,22000,2,11000.0,11.678448377988165
+kia,sportage,diesel,automatique,intégrale,suv,2011,190000,14,13571.42857142857,10.87806606028079
+bmw,x2,essence,automatique,traction,suv,2018,152000,7,21714.285714285714,11.39640288460621
+volkswagen,golf 7,essence,automatique,traction,compacte,2019,320000,6,53333.333333333336,10.915106645867503
+kia,sportage,diesel,manuelle,traction,suv,2016,320000,9,35555.555555555555,11.141876276228
+toyota,rav 4,essence,automatique,traction,suv,2021,26000,4,6500.0,11.813037464800539
+chevrolet,cruze,essence,manuelle,traction,berline,2018,95000,7,13571.42857142857,10.571342565808699
+mercedes-benz,classe e,diesel,automatique,propulsion,berline,2009,175000,16,10937.5,10.985309671896763
+mercedes-benz,classe e,essence,automatique,propulsion,berline,2014,210000,11,19090.909090909092,11.156264806643742
+hyundai,grand i10,essence,automatique,traction,citadine,2021,67000,4,16750.0,10.778977123006351
+peugeot,landtrek simple cabine,diesel,manuelle,propulsion,pick up,2021,55000,4,13750.0,10.896757843893464
+mercedes-benz,classe e coupé,essence,automatique,propulsion,coupé,2011,197000,14,14071.42857142857,10.933124826700707
+mg,zs,essence,manuelle,traction,suv,2019,50000,6,8333.333333333334,11.082157933374816
+mazda,cx-9,essence,automatique,intégrale,suv,2014,122000,11,11090.90909090909,10.859018228147887
+peugeot,208,essence,manuelle,traction,citadine,2018,74000,7,10571.42857142857,10.53212287826962
+peugeot,3008,essence,automatique,traction,suv,2021,111000,4,27750.0,11.225256725762893
+citroën,berlingo van,diesel,automatique,intégrale,utilitaire,2022,167200,3,55733.333333333336,11.050905878263567
+mg,hs,essence,automatique,traction,suv,2022,57234,3,19078.0,11.48247656671073
+mahindra,kuv 100,essence,manuelle,traction,suv,2020,60000,5,12000.0,10.419330568113901
+volkswagen,golf 8,essence,manuelle,intégrale,compacte,2020,92600,5,18520.0,11.48247656671073
+chery,tiggo 2,essence,manuelle,traction,suv,2020,99800,5,19960.0,10.645448706505872
+mazda,2 sedan,essence,manuelle,traction,berline,2017,192000,8,24000.0,10.645448706505872
+mg,3,essence,manuelle,traction,citadine,2020,196000,5,39200.0,10.545367754151743
+mercedes-benz,classe a,essence,manuelle,traction,compacte,2013,119000,12,9916.666666666666,10.985309671896763
+volkswagen,golf 7,essence,manuelle,traction,compacte,2014,238000,11,21636.363636363636,10.809748150372926
+toyota,rav 4,essence,automatique,traction,suv,2021,26000,4,6500.0,11.813037464800539
+kia,rio berline,essence,manuelle,traction,berline,2010,300000,15,20000.0,9.952325334619427
+bmw,série 4 gran coupé,essence,automatique,propulsion,berline,2017,235000,8,29375.0,11.156264806643742
+toyota,c-hr,essence,automatique,traction,suv,2020,96000,5,19200.0,11.277215789596893
+kia,sportage,essence,automatique,traction,suv,2021,70000,4,17500.0,11.461642696843066
+kia,rio 5p,essence,manuelle,traction,citadine,2020,100000,5,20000.0,10.819798284210286
+hyundai,tucson,hybride léger diesel,automatique,traction,suv,2021,89000,4,22250.0,11.678448377988165
+volkswagen,passat,essence,automatique,traction,berline,2018,90000,7,12857.142857142857,11.385103457032141
+volkswagen,cc,diesel,manuelle,intégrale,berline,2014,160000,11,14545.454545454546,11.184435286790631
+hyundai,tucson,essence,automatique,traction,suv,2015,227000,10,22700.0,10.993748398115178
+toyota,yaris hybride,hybride essence,automatique,traction,citadine,2025,0,0,0.0,11.289794413577894
+dacia,dokker van,diesel,manuelle,traction,utilitaire,2017,190874,8,23859.25,10.021315031649332
+bmw,série 3,essence,manuelle,propulsion,berline,2007,234000,18,13000.0,10.491301994830229
+mercedes-benz,classe e,diesel,automatique,traction,berline,2011,251000,14,17928.571428571428,11.002116507732017
+kia,seltos,essence,automatique,traction,suv,2022,65000,3,21666.666666666668,11.461642696843066
+ford,ecosport,essence,automatique,traction,suv,2020,113000,5,22600.0,11.002116507732017
+citroën,c4,essence,manuelle,traction,compacte,2018,96485,7,13783.57142857143,10.53212287826962
+nissan,micra,essence,manuelle,traction,citadine,2019,90000,6,15000.0,10.34177474101152
+nissan,micra,essence,manuelle,traction,citadine,2021,71600,4,17900.0,10.448743588106625
+mercedes-benz,classe c,diesel,automatique,traction,berline,2016,290000,9,32222.222222222223,11.177466714598282
+peugeot,3008,diesel,automatique,traction,monospace,2020,130000,5,26000.0,11.350418300109132
+dacia,dokker van,diesel,manuelle,traction,utilitaire,2021,164000,4,41000.0,10.419330568113901
+lancia,ypsilon,essence,manuelle,traction,citadine,2014,170000,11,15454.545454545454,10.308985993422082
+audi,a4,diesel,automatique,traction,berline,2014,88500,11,8045.454545454545,11.154835234271214
+volkswagen,amarok,diesel,manuelle,intégrale,pick up,2015,220000,10,22000.0,11.264476926102367
+peugeot,partner,essence,manuelle,traction,utilitaire,2011,235000,14,16785.714285714286,10.12667110305036
+dfsk,k02,essence,manuelle,traction,pick up,2017,168600,8,21075.0,9.711176264112805
+peugeot,3008,diesel,automatique,traction,suv,2021,153000,4,38250.0,11.373674891823535
+peugeot,208,essence,manuelle,traction,citadine,2022,38000,3,12666.666666666666,10.789339695269716
+seat,leon sc,essence,manuelle,traction,compacte,2018,172000,7,24571.428571428572,10.714439990727769
+renault,trafic,diesel,manuelle,intégrale,utilitaire,2001,500000,24,20833.333333333332,8.987321812850125
+kia,sportage,diesel,automatique,intégrale,suv,2013,280000,12,23333.333333333332,11.002116507732017
+renault,kwid populaire,essence,manuelle,traction,suv,2022,48000,3,16000.0,10.491301994830229
+suzuki,dzire,essence,manuelle,traction,berline,2021,75000,4,18750.0,10.55843949396453
+mercedes-benz,sprinter van,diesel,manuelle,traction,utilitaire,2005,333000,20,16650.0,10.596659732783579
+volkswagen,golf 7,essence,manuelle,traction,compacte,2016,143000,9,15888.888888888889,10.993748398115178
+dacia,dokker van,diesel,manuelle,traction,utilitaire,2022,159000,3,53000.0,10.460270761075149
+volkswagen,golf 7,essence,automatique,traction,compacte,2020,103000,5,20600.0,11.225256725762893
+volkswagen,polo,essence,manuelle,intégrale,citadine,2004,309000,21,14714.285714285714,9.852246888342531
+seat,ateca,essence,automatique,traction,suv,2021,169000,4,42250.0,11.390769130367211
+mahindra,kuv 100,essence,manuelle,traction,suv,2018,137000,7,19571.428571428572,10.085850775128717
+mercedes-benz,classe c,essence,manuelle,propulsion,berline,2011,183000,14,13071.42857142857,10.985309671896763
+renault,clio,essence,manuelle,traction,citadine,2021,113000,4,28250.0,10.596659732783579
+audi,a4,essence,automatique,traction,berline,2016,137000,9,15222.222222222223,11.225256725762893
+hyundai,bayon,essence,automatique,traction,suv,2024,24500,1,24500.0,11.326607934898927
+kia,xceed,essence,automatique,traction,suv,2023,26000,2,13000.0,11.736077016252437
+suzuki,celerio,essence,manuelle,traction,citadine,2021,120000,4,30000.0,10.34177474101152
+volkswagen,golf 8,essence,manuelle,traction,compacte,2020,115800,5,23160.0,11.3373928113354
+kia,rio 5p,essence,manuelle,traction,citadine,2021,80000,4,20000.0,10.983613347424248
+citroën,c4 cactus,essence,manuelle,traction,compacte,2017,145000,8,18125.0,10.463131911491967
+kia,rio berline,essence,manuelle,traction,berline,2011,340000,14,24285.714285714286,10.118639253920785
+mercedes-benz,classe c,essence,manuelle,propulsion,berline,2011,182000,14,13000.0,10.819798284210286
+ssangyong,tivoli,essence,manuelle,traction,suv,2021,80000,4,20000.0,11.002116507732017
+haval,jolion,essence,automatique,traction,suv,2023,57000,2,28500.0,11.407576060361786
+renault,kadjar,essence,automatique,traction,suv,2018,59000,7,8428.57142857143,11.258046118484
+bmw,série 4 gran coupé,essence,automatique,propulsion,berline,2019,88000,6,14666.666666666666,11.736077016252437
+toyota,rav 4,hybride essence,automatique,traction,suv,2022,66000,3,22000.0,11.849404844423074
+volkswagen,golf 8,essence,manuelle,traction,compacte,2021,57000,4,14250.0,11.49273296168228
+fiat,fiorino,diesel,manuelle,traction,utilitaire,2023,47000,2,23500.0,11.0186455364637
+audi,a4,essence,manuelle,traction,berline,2013,68000,12,5666.666666666667,10.799595985047786
+mercedes-benz,classe a,essence,automatique,traction,compacte,2013,220000,12,18333.333333333332,10.942013616092948
+toyota,rav 4,essence,automatique,traction,suv,2009,164000,16,10250.0,10.714439990727769
+peugeot,208,essence,manuelle,traction,citadine,2015,169000,10,16900.0,10.25769445336048
+haval,h6,essence,automatique,traction,suv,2022,22000,3,7333.333333333333,11.652696102959753
+fiat,fiorino,diesel,manuelle,traction,utilitaire,2022,74000,3,24666.666666666668,10.505094936455558
+ford,ecosport,essence,automatique,traction,suv,2019,90000,6,15000.0,10.968215530759236
+seat,arona,essence,automatique,traction,suv,2023,92000,2,46000.0,11.264476926102367
+bmw,série 3,essence,automatique,propulsion,berline,2013,230000,12,19166.666666666668,10.933124826700707
+seat,ibiza,essence,manuelle,traction,citadine,2019,50000,6,8333.333333333334,10.789339695269716
+land rover,discovery,diesel,automatique,propulsion,suv,2009,194000,16,12125.0,11.225256725762893
+bmw,série 3,essence,automatique,propulsion,berline,2014,174000,11,15818.181818181818,11.225256725762893
+volkswagen,tiguan,essence,manuelle,intégrale,suv,2010,200000,15,13333.333333333334,10.596659732783579
+audi,a3 berline,essence,automatique,traction,berline,2016,238000,9,26444.444444444445,10.915106645867503
+mahindra,kuv 100,essence,manuelle,traction,suv,2020,60000,5,12000.0,10.477316144080852
+toyota,c-hr,essence,automatique,traction,suv,2018,149000,7,21285.714285714286,10.950824090522445
+peugeot,partner,diesel,manuelle,traction,utilitaire,2020,124000,5,24800.0,10.799595985047786
+kia,sportage,diesel,automatique,intégrale,suv,2017,217000,8,27125.0,11.407576060361786
+mercedes-benz,classe c,essence,automatique,propulsion,berline,2018,45500,7,6500.0,11.751950239425476
+seat,ibiza,essence,automatique,traction,citadine,2024,12000,1,12000.0,11.314486721293981
+kia,rio 5p,essence,manuelle,traction,citadine,2022,58000,3,19333.333333333332,11.05881093278828
+fiat,grande punto,essence,manuelle,traction,citadine,2011,223000,14,15928.57142857143,9.90353755128617
+peugeot,308,essence,automatique,traction,compacte,2024,24000,1,24000.0,11.695255355062795
+kia,sportage,diesel,manuelle,traction,suv,2010,300000,15,20000.0,10.714439990727769
+toyota,agya,essence,manuelle,traction,citadine,2021,161000,4,40250.0,10.463131911491967
+citroën,c5 aircross,diesel,automatique,traction,suv,2021,27500,4,6875.0,11.608244735642321
+kia,sportage,diesel,automatique,intégrale,suv,2013,267000,12,22250.0,10.859018228147887
+volkswagen,new beetle,essence,manuelle,propulsion,coupé,2002,320000,23,13913.04347826087,10.12667110305036
+great wall,m4,essence,manuelle,traction,suv,2020,110000,5,22000.0,10.62135173563291
+hyundai,grand i10,essence,manuelle,traction,citadine,2021,62900,4,15725.0,10.584081267024454
+ds,3 crossback,essence,automatique,traction,suv,2020,101000,5,20200.0,11.082157933374816
+bmw,série 3,essence,automatique,traction,berline,2013,180000,12,15000.0,11.082157933374816
+volkswagen,golf 8,essence,manuelle,propulsion,compacte,2022,20000,3,6666.666666666667,11.344518647594766
+nissan,navara,diesel,manuelle,intégrale,pick up,2012,225000,13,17307.69230769231,10.87806606028079
+chery,qq,essence,manuelle,traction,citadine,2018,71000,7,10142.857142857143,10.034559673629849
+peugeot,108,essence,manuelle,traction,citadine,2019,86000,6,14333.333333333334,10.448743588106625
+renault,captur,essence,manuelle,traction,suv,2016,130000,9,14444.444444444445,10.668978650219241
+volkswagen,passat,essence,automatique,traction,berline,2021,69000,4,17250.0,11.608244735642321
+hyundai,accent,essence,manuelle,traction,berline,2023,45000,2,22500.0,11.154835234271214
+volkswagen,virtus,essence,automatique,traction,berline,2023,1000,2,500.0,11.314486721293981
+volkswagen,golf 7,essence,automatique,traction,compacte,2019,150000,6,25000.0,11.034905792929415
+peugeot,207 cc,essence,manuelle,traction,cabriolet,2012,167000,13,12846.153846153846,10.357774570341576
+honda,hr-v,essence,automatique,traction,suv,2020,130000,5,26000.0,11.127277689932466
+mercedes-benz,classe c,essence,automatique,propulsion,berline,2015,260000,10,26000.0,11.407576060361786
+peugeot,bipper,diesel,manuelle,traction,utilitaire,2017,87000,8,10875.0,10.292179440058462
+hyundai,grand i10,essence,manuelle,traction,citadine,2021,72000,4,18000.0,10.729875458480967
+renault,kadjar,essence,manuelle,traction,suv,2019,82000,6,13666.666666666666,11.050905878263567
+honda,city,essence,automatique,traction,berline,2020,130000,5,26000.0,10.757924157061597
+alfa romeo,stelvio,essence,automatique,intégrale,suv,2019,98000,6,16333.333333333334,11.827743504053695
+opel,grandland,diesel,automatique,traction,suv,2020,120000,5,24000.0,11.156264806643742
+kia,sportage,essence,automatique,traction,suv,2017,260000,8,32500.0,10.985309671896763
+peugeot,308,diesel,manuelle,traction,compacte,2020,60000,5,12000.0,11.002116507732017
+volkswagen,golf 7,essence,manuelle,propulsion,compacte,2015,220000,10,22000.0,10.596659732783579
+ford,kuga,essence,manuelle,traction,suv,2019,90000,6,15000.0,11.289794413577894
+kia,picanto,essence,automatique,traction,citadine,2019,149000,6,24833.333333333332,10.571342565808699
+mercedes-benz,classe e,diesel,automatique,propulsion,berline,2012,164000,13,12615.384615384615,11.225256725762893
+fiat,panda city cross,essence,manuelle,traction,citadine,2021,31000,4,7750.0,10.657282884047461
+peugeot,208,essence,manuelle,traction,citadine,2022,45000,3,15000.0,10.62135173563291
+nissan,juke,essence,automatique,traction,suv,2021,58000,4,14500.0,11.277215789596893
+mercedes-benz,classe e,essence,automatique,propulsion,berline,2019,67000,6,11166.666666666666,11.918397239722838
+volkswagen,polo,essence,manuelle,traction,citadine,2020,111000,5,22200.0,10.633472802314019
+suzuki,celerio,essence,manuelle,traction,citadine,2021,48000,4,12000.0,10.419330568113901
+volkswagen,golf 8,essence,automatique,propulsion,compacte,2022,123000,3,41000.0,11.385103457032141
+dacia,logan mcv,essence,manuelle,traction,monospace,2017,177800,8,22225.0,10.491301994830229
+bmw,série 3,essence,automatique,propulsion,berline,2014,155500,11,14136.363636363636,11.141876276228
+volkswagen,golf 7,essence,manuelle,intégrale,compacte,2017,119000,8,14875.0,11.141876276228
+bmw,x1,hybride rechargeable essence,automatique,intégrale,suv,2021,66000,4,16500.0,11.775297421715827
+haval,h2,essence,automatique,traction,suv,2020,100000,5,20000.0,10.985309671896763
+ford,fiesta,essence,manuelle,traction,citadine,2013,135000,12,11250.0,10.454523783963511
+mg,gs,essence,automatique,intégrale,suv,2017,203000,8,25375.0,11.034905792929415
+bmw,série 5,diesel,automatique,traction,berline,2014,291370,11,26488.18181818182,11.127277689932466
+suzuki,celerio,essence,manuelle,traction,citadine,2019,87300,6,14550.0,10.308985993422082
+volkswagen,golf 8,essence,automatique,traction,compacte,2023,35500,2,17750.0,11.669937760751914
+haval,h6,essence,automatique,traction,suv,2021,44000,4,11000.0,11.332613886815139
+ford,fusion,essence,automatique,traction,berline,2016,166899,9,18544.333333333332,10.819798284210286
+bmw,série 1,essence,manuelle,propulsion,compacte,2011,224000,14,16000.0,10.645448706505872
+bmw,série 3,essence,automatique,propulsion,berline,2013,220000,12,18333.333333333332,10.97679912709094
+chevrolet,captiva,essence,automatique,traction,suv,2023,16000,2,8000.0,11.472113887062386
+mercedes-benz,ml,essence,automatique,propulsion,suv,2011,198000,14,14142.857142857143,11.127277689932466
+chery,tiggo 2,essence,manuelle,traction,suv,2019,87800,6,14633.333333333334,10.596659732783579
+ford,fiesta,essence,manuelle,traction,citadine,2015,200000,10,20000.0,10.545367754151743
+seat,tarraco,essence,automatique,traction,suv,2023,48600,2,24300.0,11.771443882099637
+fiat,500,essence,automatique,traction,citadine,2024,40000,1,40000.0,10.985309671896763
+volkswagen,passat,essence,automatique,traction,berline,2012,257000,13,19769.23076923077,10.757924157061597
+bmw,série 3,essence,automatique,traction,berline,2009,230000,16,14375.0,10.819798284210286
+ford,focus,essence,manuelle,traction,compacte,2015,103000,10,10300.0,10.571342565808699
+fiat,tipo 5 portes,essence,manuelle,traction,compacte,2020,90000,5,18000.0,10.799595985047786
+cupra,formentor,essence,automatique,traction,suv,2022,73000,3,24333.333333333332,11.813037464800539
+bmw,x6,diesel,automatique,intégrale,suv,2009,389000,16,24312.5,11.302216779257382
+peugeot,208,essence,manuelle,traction,citadine,2021,54000,4,13500.0,10.404293143019792
+mini,countryman,essence,manuelle,propulsion,suv,2011,136000,14,9714.285714285714,10.691967639914864
+hyundai,i20,essence,manuelle,traction,citadine,2020,67730,5,13546.0,10.87806606028079
+jeep,cherokee,diesel,automatique,intégrale,suv,2015,70000,10,7000.0,11.884495917930655
+mercedes-benz,classe a,essence,manuelle,traction,compacte,2014,163000,11,14818.181818181818,11.127277689932466
+hyundai,grand i10 sedan,essence,manuelle,traction,berline,2021,85000,4,21250.0,10.633472802314019
+great wall,poer at,diesel,automatique,intégrale,pick up,2025,23000,0,23000.0,11.695255355062795
+chery,tiggo 3x,essence,automatique,traction,suv,2022,51000,3,17000.0,10.87806606028079
+volkswagen,golf 7,essence,automatique,traction,compacte,2018,126000,7,18000.0,11.0186455364637
+chery,tiggo 7 pro,essence,automatique,traction,suv,2023,8300,2,4150.0,11.429554725537322
+mini,3 portes,essence,manuelle,traction,citadine,2012,137465,13,10574.23076923077,10.596659732783579
+peugeot,3008,essence,manuelle,traction,suv,2017,135000,8,16875.0,10.868587496017359
+alfa romeo,mito,essence,manuelle,traction,citadine,2012,142000,13,10923.076923076924,10.203629181337648
+peugeot,bipper tepee,essence,manuelle,traction,monospace,2010,280000,15,18666.666666666668,10.491301994830229
+mercedes-benz,classe c,essence,automatique,propulsion,berline,2018,78000,7,11142.857142857143,11.891368749982085
+mercedes-benz,classe s,diesel,automatique,propulsion,berline,2006,144000,19,7578.9473684210525,11.407576060361786
+fiat,tipo berline,essence,manuelle,traction,berline,2020,129000,5,25800.0,10.594156665220533
+mini,3 portes,essence,manuelle,traction,citadine,2009,155000,16,9687.5,10.389026137075234
+mg,hs,essence,automatique,traction,suv,2022,45000,3,15000.0,11.40646434386837
+peugeot,208,essence,manuelle,traction,citadine,2020,90500,5,18100.0,10.389026137075234
+volkswagen,golf 7,essence,manuelle,traction,compacte,2016,144000,9,16000.0,11.082157933374816
+ssangyong,tivoli,essence,manuelle,traction,suv,2018,105000,7,15000.0,10.859018228147887
+kia,rio 5p,essence,manuelle,traction,citadine,2022,120000,3,40000.0,10.809748150372926
+jeep,compass,essence,automatique,intégrale,suv,2016,56000,9,6222.222222222223,11.362114203075018
+mercedes-benz,classe s,essence,automatique,traction,berline,2008,212000,17,12470.588235294117,11.19822841866684
+peugeot,landtrek simple cabine,diesel,manuelle,propulsion,pick up,2023,66000,2,33000.0,11.251573687764477
+suzuki,swift,essence,manuelle,traction,citadine,2021,130000,4,32500.0,10.609081944147828
+audi,a3 sportback,essence,automatique,traction,compacte,2017,68500,8,8562.5,11.251573687764477
+volkswagen,golf 7,essence,automatique,traction,compacte,2016,130300,9,14477.777777777777,10.859018228147887
+renault,clio,essence,manuelle,traction,citadine,2022,130000,3,43333.333333333336,10.596659732783579
+toyota,c-hr,essence,automatique,traction,suv,2018,159000,7,22714.285714285714,10.985309671896763
+peugeot,208,essence,manuelle,traction,citadine,2022,51000,3,17000.0,10.968215530759236
+kia,rio berline,essence,manuelle,traction,berline,2012,290000,13,22307.69230769231,10.357774570341576
+lada,4x4,essence,manuelle,intégrale,suv,2021,75000,4,18750.0,10.518700218288165
+skoda,octavia,essence,automatique,traction,berline,2019,119000,6,19833.333333333332,11.002116507732017
+peugeot,208,essence,manuelle,traction,citadine,2016,160000,9,17777.777777777777,10.275085591132715
+volkswagen,polo,essence,manuelle,traction,citadine,2021,119000,4,29750.0,10.691967639914864
+mercedes-benz,classe a,essence,automatique,traction,compacte,2014,190000,11,17272.727272727272,11.06665398721974
+volkswagen,golf 7,essence,manuelle,traction,compacte,2019,99500,6,16583.333333333332,11.225256725762893
+mazda,bt-50,diesel,manuelle,intégrale,pick up,2016,214000,9,23777.777777777777,10.933124826700707
+ford,ka,essence,manuelle,traction,citadine,2016,178000,9,19777.777777777777,10.184937747111391
+suzuki,vitara,essence,automatique,intégrale,suv,2017,92300,8,11537.5,11.149096419938578
+haval,h2,essence,manuelle,traction,suv,2018,102000,7,14571.42857142857,10.933124826700707
+great wall,wingle 5 double cabine,diesel,manuelle,propulsion,pick up,2018,185000,7,26428.571428571428,10.799595985047786
+mitsubishi,pajero sport,diesel,manuelle,intégrale,suv,1999,225000,26,8653.846153846154,10.373522431293592
+renault,captur,essence,manuelle,traction,suv,2014,183000,11,16636.363636363636,10.434145214930487
+ford,focus,essence,manuelle,traction,compacte,2018,106000,7,15142.857142857143,10.736418414365376
+kia,picanto,essence,automatique,traction,citadine,2019,79300,6,13216.666666666666,10.596659732783579
+volkswagen,golf 8,essence,manuelle,traction,compacte,2020,40000,5,8000.0,11.385103457032141
+bmw,x1,diesel,manuelle,propulsion,suv,2010,200000,15,13333.333333333334,10.915106645867503
+seat,ateca,essence,automatique,traction,suv,2021,66000,4,16500.0,11.502885230075814
+hyundai,i20,essence,manuelle,traction,citadine,2022,64000,3,21333.333333333332,10.985309671896763
+mercedes-benz,classe c,hybride léger essence,automatique,traction,berline,2020,88000,5,17600.0,11.790564777297387
+volkswagen,golf 8,hybride rechargeable essence,automatique,traction,compacte,2022,88000,3,29333.333333333332,11.736077016252437
+toyota,corolla,essence,automatique,traction,compacte,2020,123000,5,24600.0,11.156264806643742
+volkswagen,polo,essence,manuelle,traction,citadine,1998,359200,27,13303.703703703704,9.350189267092581
+kia,sportage,diesel,manuelle,traction,suv,2018,200000,7,28571.428571428572,11.184435286790631
+seat,leon,essence,manuelle,traction,compacte,2018,151000,7,21571.428571428572,10.950824090522445
+kia,picanto,essence,manuelle,traction,citadine,2021,36000,4,9000.0,10.596659732783579
+mercedes-benz,gla,essence,automatique,traction,suv,2021,78000,4,19500.0,11.835016210489899
+mazda,cx-3,essence,automatique,traction,suv,2017,145000,8,18125.0,10.985309671896763
+mercedes-benz,classe c,essence,automatique,propulsion,berline,2007,317000,18,17611.11111111111,10.668978650219241
+mercedes-benz,classe a,essence,automatique,traction,compacte,2020,94000,5,18800.0,11.451060699493427
+bmw,série 1,essence,automatique,traction,compacte,2017,126000,8,15750.0,11.06665398721974
+kia,rio 5p,essence,manuelle,traction,citadine,2021,96000,4,24000.0,10.87806606028079
+peugeot,208,essence,manuelle,traction,citadine,2021,37000,4,9250.0,10.714439990727769
+mercedes-benz,classe c coupé,diesel,automatique,propulsion,coupé,2010,300000,15,20000.0,10.915106645867503
+citroën,c3,essence,manuelle,traction,citadine,2017,70000,8,8750.0,10.434145214930487
+mercedes-benz,classe e,diesel,automatique,traction,berline,2003,143000,22,6500.0,10.645448706505872
+mercedes-benz,classe e,diesel,automatique,propulsion,berline,2016,78000,9,8666.666666666666,11.891368749982085
+renault,megane sedan,essence,manuelle,traction,berline,2019,123000,6,20500.0,10.691967639914864
+volkswagen,golf 7,essence,automatique,traction,compacte,2019,117000,6,19500.0,11.112462823634855
